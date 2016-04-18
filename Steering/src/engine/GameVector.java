@@ -50,6 +50,12 @@ public class GameVector {
         return new GameVector(newX, newY);
     }
 
+    // Multiply a vector by a scalar
+    public void multByScalar(double s){
+        x = s*x;
+        y = s*y;
+    }
+
     public double magnitude(){
         return Math.sqrt((x*x)+(y*y));
     }

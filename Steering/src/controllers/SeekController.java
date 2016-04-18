@@ -11,15 +11,10 @@ import engine.GameVector;
  */
 public class SeekController extends Controller {
 
-    GameObject target;
-    GameVector oldPosition;
-    GameVector currentPosition;
-    boolean firstUpdate;
+    private GameObject target;
 
     public SeekController(GameObject _target){
         target = _target;
-        firstUpdate = true;
-        currentPosition = new GameVector(0,0);
     }
     public void update(Car subject, Game game, double delta_t, double[] controlVariables) {
 
@@ -29,38 +24,37 @@ public class SeekController extends Controller {
 
         // Get targets position
         GameVector endPosition = new GameVector(target.getX(), target.getY());
-        //System.out.println("target position: " + endPosition.toString());
 
+        // Get current direction
+        GameVector dirVector = new GameVector(Math.cos(subject.getAngle()), Math.sin(subject.getAngle()));
+        dirVector = dirVector.normalize();
+
+        // Get acceleration request
         GameVector accelRequest = seek(subject, endPosition);
-        //System.out.println("accelRequest" + accelRequest.toString());
 
-        // Update car's current position
-        currentPosition.setXY(subject.getX(), subject.getY());
-        //System.out.println("current position: " + currentPosition.toString());
+        // Throttle/Brake output filtered
+        double linearAccel = getLinearAccel(accelRequest, dirVector);
 
-        // If this is the first time update is called, save the current position as the old position
-        if (firstUpdate){
-            oldPosition = new GameVector(currentPosition.getX(), currentPosition.getY());
-            firstUpdate = false;
-        }
-        //System.out.println("old position: " + oldPosition.toString());
+        // Left/Right output filtered
+        double angularAccel = getAngularAccel(accelRequest, dirVector);
 
-        // Get current velocity
-        GameVector currentVelocity = currentPosition.subtract(oldPosition);
-        //System.out.println("currentVelocity" + currentVelocity.toString());
-
-        double linearAccel = getLinearAccel(accelRequest, currentVelocity);
-        System.out.println("linear acceleration:" + linearAccel);
-
-        if (linearAccel > 0){
+        // Throttle/Brake
+        if (linearAccel > 0.01){
             controlVariables[VARIABLE_THROTTLE] = 1;
         }
-        else if (linearAccel < 0){
+        else if (linearAccel < -0.01){
             controlVariables[VARIABLE_BRAKE] = 1;
         }
 
-        // replace old position to current position
-        oldPosition = new GameVector(currentPosition.getX(), currentPosition.getY());
+        // Turn Left/Right
+        if (angularAccel > 0){
+            controlVariables[VARIABLE_STEERING] = 1;
+        }
+        else if (angularAccel < 0){
+            controlVariables[VARIABLE_STEERING] = -1;
+        }
+
+
 
     }
 
@@ -68,35 +62,26 @@ public class SeekController extends Controller {
 
         // D = E - subject.position
         GameVector displacement = new GameVector(end.getX() - subject.getX(), end.getY() - subject.getY());
-        //System.out.println("displacement: " + displacement.toString());
 
         // ND = D/|D|
-        GameVector normDisplacement = displacement.normalize();
-        //System.out.println("normalized displacement: " + normDisplacement.toString());
+        displacement = displacement.normalize();
 
-        return normDisplacement;
+        return displacement;
     }
 
-    // Returns the scalar projection of v onto w
-    private double getLinearAccel(GameVector v, GameVector w){
+    // Returns the projection of accelRequest onto dirVector
+    private double getLinearAccel(GameVector accelRequest, GameVector dirVector){
 
-        double projectVW = v.dotProduct(w);
-        double magnitudeW = w.magnitude();
-        //System.out.println("projectVW" + projectVW);
-        //System.out.println("magnitudeW" + magnitudeW);
-
-        // Avoid divide by 0
-        if (magnitudeW != 0)
-         projectVW = projectVW/magnitudeW;
-        else
-            return .1;
-
+        double projectVW = dirVector.dotProduct(accelRequest);
         return projectVW;
     }
 
-    private double getAngularAccel(GameVector v, GameVector w){
-        GameVector right = new GameVector(v.getX(), v.getY() * -1);
+    private double getAngularAccel(GameVector accelRequest, GameVector dirVector){
 
-        return right.dotProduct(w)/w.magnitude();
+        double ca = Math.cos(Math.PI/2);
+        double sa = Math.sin(Math.PI/2);
+        GameVector right = new GameVector(ca * dirVector.getX() - sa * dirVector.getY(), sa * dirVector.getX() + ca * dirVector.getY());
+
+        return (right.normalize().dotProduct(accelRequest));
     }
 }
