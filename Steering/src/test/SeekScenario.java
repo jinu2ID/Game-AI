@@ -3,6 +3,7 @@ package test;
 import controllers.EmptyController;
 import controllers.KeyboardController;
 import controllers.SeekController;
+import controllers.FleeController;
 import engine.Car;
 import engine.Game;
 import engine.GameObject;

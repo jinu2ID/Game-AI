@@ -9,14 +9,13 @@ import engine.GameVector;
  * Created by jinuj on 4/13/2016.
  * Implements the seek steering behavior; subject will seek target
  */
-public class SeekController extends Controller {
+public class FleeController extends Controller {
 
     private GameObject target;
 
-    public SeekController(GameObject _target){
+    public FleeController(GameObject _target){
         target = _target;
     }
-
     public void update(Car subject, Game game, double delta_t, double[] controlVariables) {
 
         controlVariables[VARIABLE_STEERING] = 0;
@@ -31,7 +30,7 @@ public class SeekController extends Controller {
         dirVector = dirVector.normalize();
 
         // Get acceleration request
-        GameVector accelRequest = seek(subject, endPosition);
+        GameVector accelRequest = flee(subject, endPosition);
 
         // Throttle/Brake output filtered
         double linearAccel = getLinearAccel(accelRequest, dirVector);
@@ -40,10 +39,10 @@ public class SeekController extends Controller {
         double angularAccel = getAngularAccel(accelRequest, dirVector);
 
         // Throttle/Brake
-        if (linearAccel > 0){
+        if (linearAccel > 0.01){
             controlVariables[VARIABLE_THROTTLE] = 1;
         }
-        else if (linearAccel < 0){
+        else if (linearAccel < -0.01){
             controlVariables[VARIABLE_BRAKE] = 1;
         }
 
@@ -59,13 +58,14 @@ public class SeekController extends Controller {
 
     }
 
-    private GameVector seek(GameObject subject, GameVector end){
+    private GameVector flee(GameObject subject, GameVector end){
 
         // D = E - subject.position
         GameVector displacement = new GameVector(end.getX() - subject.getX(), end.getY() - subject.getY());
 
         // ND = D/|D|
         displacement = displacement.normalize();
+        displacement.multByScalar(-1);
 
         return displacement;
     }

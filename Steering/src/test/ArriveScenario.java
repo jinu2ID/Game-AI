@@ -2,6 +2,8 @@ package test;
 
 import controllers.EmptyController;
 import controllers.KeyboardController;
+import controllers.SeekController;
+import controllers.ArriveController;
 import engine.Car;
 import engine.Game;
 import engine.GameObject;
@@ -32,7 +34,7 @@ public class ArriveScenario {
         game.add(new Obstacle(775,0,25,600,Color.GRAY));
         // set up the cars and markers:
         GameObject marker = new Marker(600,300,10, Color.green);
-        GameObject car1 = new Car("graphics/redcar.png",200,300,-Math.PI/2, new EmptyController());
+        GameObject car1 = new Car("graphics/redcar.png",200,300,-Math.PI/2, new ArriveController(marker));
         game.add(marker);
         game.add(car1);
         GameWindow.newWindow(game);
