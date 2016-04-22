@@ -35,6 +35,8 @@ public class Game {
     public int getFPS() {
         return m_frames_per_second;
     }
+
+    public List<GameObject> getObjects(){ return m_objects; }
     
     public void add(GameObject o) {
         m_objects.add(o);

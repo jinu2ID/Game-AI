@@ -7,8 +7,8 @@ import java.awt.Graphics2D;
  * @author santi
  */
 public abstract class GameObject {
-    double m_x,m_y;
-    
+    public double m_x,m_y;
+    public String name;
     /*
     The only thing we require of game objects is that they define the following three functions:
     - update: that contains their bhavior

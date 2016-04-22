@@ -55,8 +55,6 @@ public class SeekController extends Controller {
             controlVariables[VARIABLE_STEERING] = -1;
         }
 
-
-
     }
 
     private GameVector seek(GameObject subject, GameVector end){
@@ -85,4 +83,6 @@ public class SeekController extends Controller {
 
         return (right.normalize().dotProduct(accelRequest));
     }
+
+
 }

@@ -1,11 +1,10 @@
 package controllers;
 
-import engine.Car;
-import engine.Game;
-import engine.GameObject;
-import java.awt.KeyEventDispatcher;
-import java.awt.KeyboardFocusManager;
+import engine.*;
+
+import java.awt.*;
 import java.awt.event.KeyEvent;
+import java.util.List;
 
 /**
  *
@@ -16,7 +15,8 @@ public class KeyboardController extends Controller {
     public static final int key_brake = KeyEvent.VK_DOWN;
     public static final int key_left = KeyEvent.VK_LEFT;
     public static final int key_right = KeyEvent.VK_RIGHT;
-    
+
+
     
     // store which keys are currently pressed:
     boolean keyboardState[] = new boolean[KeyEvent.KEY_LAST];
@@ -40,7 +40,10 @@ public class KeyboardController extends Controller {
                         return false;
                     }
                 }
-            });        
+            });
+
+
+
     }
     
     public void update(Car subject, Game game, double delta_t, double controlVariables[]) {
@@ -52,6 +55,10 @@ public class KeyboardController extends Controller {
         if (keyboardState[key_right] && !keyboardState[key_left]) controlVariables[VARIABLE_STEERING] = +1;
         if (keyboardState[key_accelerate]) controlVariables[VARIABLE_THROTTLE] = 1;
         if (keyboardState[key_brake]) controlVariables[VARIABLE_BRAKE] = 1;
+
+
     }
-    
+
+
+
 }

@@ -10,7 +10,7 @@ import java.awt.geom.Rectangle2D;
  */
 public class Obstacle extends GameObject {
     double m_width, m_height;
-    Color m_color;
+    public Color m_color;
     RotatedRectangle m_collision_box;
    
     public Obstacle(double x, double y, double width, double height, Color c) {

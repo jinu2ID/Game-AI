@@ -7,7 +7,7 @@ package engine;
  */
 public class RotatedRectangle {
     public static class _Vector2D {
-        double x,y;
+        public double x,y;
         
         void add(_Vector2D v) {
             x+=v.x;
@@ -19,7 +19,7 @@ public class RotatedRectangle {
             y-=v.y;
         }
         
-        void rotate(double ang) {
+        public void rotate(double ang) {
             double t;
             double cosa = Math.cos(ang);
             double sina = Math.sin(ang);
