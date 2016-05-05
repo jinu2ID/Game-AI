@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/java-cup-11a-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jargs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xercesImpl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
