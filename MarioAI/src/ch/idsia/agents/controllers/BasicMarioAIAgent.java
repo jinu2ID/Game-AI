@@ -39,13 +39,13 @@ import ch.idsia.benchmark.mario.environments.Environment;
  */
 public class BasicMarioAIAgent implements Agent
 {
-protected boolean action[] = new boolean[Environment.numberOfKeys];
+public boolean action[] = new boolean[Environment.numberOfKeys];
 protected String name = "Instance_of_BasicAIAgent._Change_this_name";
 
 /*final*/
 protected byte[][] levelScene;
 /*final */
-protected byte[][] enemies;
+public byte[][] enemies;
 protected byte[][] mergedObservation;
 
 protected float[] marioFloatPos = null;
@@ -55,9 +55,9 @@ protected int[] marioState = null;
 
 protected int marioStatus;
 protected int marioMode;
-protected boolean isMarioOnGround;
-protected boolean isMarioAbleToJump;
-protected boolean isMarioAbleToShoot;
+public boolean isMarioOnGround;
+public boolean isMarioAbleToJump;
+public boolean isMarioAbleToShoot;
 protected boolean isMarioCarrying;
 protected int getKillsTotal;
 protected int getKillsByFire;
