@@ -58,6 +58,15 @@ public class Unit {
         hitpoints = u.hitpoints;
         ID = u.ID;        
     }
+
+    public Unit(){
+        player = -1;
+        type = null;
+        x = -1;
+        y = -1;
+        resources = -1;
+        hitpoints = -1;
+    }
             
     
     public int getPlayer() {

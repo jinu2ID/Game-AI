@@ -8,9 +8,9 @@ public class Rule {
 
     Term[] pattern;
     Term[] effect;
-    int[] effectType;
+    int effectType;
 
-    public Rule (Term[] _pattern, Term[] _effect, int[] _effectType ){
+    public Rule (Term[] _pattern, Term[] _effect, int _effectType ){
         pattern = _pattern;
         effect = _effect;
         effectType = _effectType;
@@ -25,4 +25,7 @@ public class Rule {
         }
 
     }
+
+
+
 }

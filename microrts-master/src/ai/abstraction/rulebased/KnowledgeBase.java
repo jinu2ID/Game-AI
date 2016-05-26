@@ -1,5 +1,6 @@
 package ai.abstraction.rulebased;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -8,6 +9,10 @@ import java.util.List;
 public class KnowledgeBase {
 
     List<Term> facts;
+
+    public KnowledgeBase(){
+        facts = new ArrayList<>();
+    }
 
     void addTerm(Term t){
         facts.add(t);

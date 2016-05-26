@@ -8,26 +8,35 @@ import rts.PhysicalGameState;
 import rts.Player;
 import rts.PlayerAction;
 import rts.units.Unit;
+import rts.units.UnitType;
+import rts.units.UnitTypeTable;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 /**
  * Created by jinuj on 5/23/2016.
  */
 public class rulesAI extends AbstractionLayerAI {
 
+    Random rand;
     KnowledgeBase KB;
+    Rule[] rules;
+    UnitTypeTable utt;
 
-    public rulesAI(PathFinding a_pf, KnowledgeBase _KB){
+    public rulesAI(UnitTypeTable _utt, PathFinding a_pf, KnowledgeBase _KB, Rule[] _rules){
         super(a_pf);
 
+        rand = new Random();
         KB = _KB;
+        rules = _rules;
+        utt = _utt;
     }
 
     public void reset(){}
 
-    public AI clone(){return new rulesAI(pf, KB);}
+    public AI clone(){return new rulesAI(utt, pf, KB, rules);}
 
     public PlayerAction getAction(int player, GameState gs){
         PhysicalGameState pgs = gs.getPhysicalGameState();
@@ -35,14 +44,18 @@ public class rulesAI extends AbstractionLayerAI {
 
         // Add facts to game state
         for (Unit u : pgs.getUnits()){
-            KB.addTerm(new Term("Type", u, u.getType()));
+            KB.addTerm(new Term("Type", u, u.getType().name));
         }
+
+        RuleBasedSystemIteration(p);
+
+        //KB.clear();
 
         return translateActions(player, gs);
     }
 
     // Check which rules are met and fire their effects
-    public void RuleBasedSystemIteration(Rule[] rules){
+    public void RuleBasedSystemIteration(Player _p){
 
         List<Rule> FiredRules = new ArrayList<>();      // List of rules to be fired
 
@@ -56,7 +69,7 @@ public class rulesAI extends AbstractionLayerAI {
 
                 boolean empty = false;
                 Object[] bindings = new Object[2];
-                bindings = this.unification(p, bindings);
+                bindings = unification(p, bindings);
 
                 // If a unification exists the binding will not be empty
                 for (Object o : bindings){
@@ -85,12 +98,11 @@ public class rulesAI extends AbstractionLayerAI {
 
         }
 
-        /* TO IMPLEMENT:
-            RulesToExecute = arbitrate(FiredRules);
-            for each e in RulesToExecute
-                Execute(r.action)
+        // Pick a rule and execute it
+        Rule RuleToExecute = arbitrate(FiredRules);
+        execute(RuleToExecute, _p);
 
-        */
+
     }
 
     // Unify a pattern with the knowledge base and return the binding
@@ -119,6 +131,34 @@ public class rulesAI extends AbstractionLayerAI {
         }
 
         return false;
+    }
+
+    public Rule arbitrate(List<Rule> rules){
+
+        int n = rand.nextInt(rules.size());
+        return rules.get(n);
+
+    }
+
+    public void execute(Rule r, Player p){
+
+        switch(r.effectType){
+            // Debug statement
+            case 0: System.out.println("TEST");
+                break;
+            case 1: buildWorker(r,p);
+                break;
+
+        }
+    }
+
+    public void buildWorker(Rule r, Player _p){
+        UnitType workerType = utt.getUnitType("Worker");
+        Unit u = new Unit((Unit)r.effect[0].parameters[0]);
+        if (_p.getResources()>workerType.cost){
+
+            train(u, workerType);
+        }
     }
 
 
