@@ -6,11 +6,11 @@ import java.util.List;
 /**
  * Created by jinuj on 5/22/2016.
  */
-public class KnowledgeBase {
+public class KnaawledgeBase {
 
     List<Term> facts;
 
-    public KnowledgeBase(){
+    public KnaawledgeBase(){
         facts = new ArrayList<>();
     }
 

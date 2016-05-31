@@ -14,8 +14,8 @@ import rts.units.Unit;
  * @author santi
  */
 public class Harvest extends AbstractAction  {
-    Unit target;
-    Unit base;
+    public Unit target;
+    public Unit base;
     PathFinding pf;
     
     public Harvest(Unit u, Unit a_target, Unit a_base, PathFinding a_pf) {
