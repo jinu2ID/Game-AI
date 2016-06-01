@@ -1,0 +1,2506 @@
+<map version="1.0" orientation="orthogonal" width="32" height="24" tilewidth="32" tileheight="32">
+  <properties>
+    <property name="name" value="the library"/>
+  </properties>
+  <tileset firstgid="1" name="graphics" tilewidth="32" tileheight="32">
+    <image source="graphics.png" width="320" height="1184"/>
+  </tileset>
+  <layer name="Tile Layer 1" width="32" height="24">
+    <data>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="57"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+    </data>
+  </layer>
+  <layer name="Tile Layer 2" width="32" height="24">
+    <data>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="88"/>
+      <tile gid="90"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="146"/>
+      <tile gid="146"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="67"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="67"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="49"/>
+      <tile gid="49"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="67"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="49"/>
+      <tile gid="49"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="148"/>
+      <tile gid="148"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="148"/>
+      <tile gid="148"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="88"/>
+      <tile gid="89"/>
+      <tile gid="90"/>
+      <tile gid="67"/>
+      <tile gid="88"/>
+      <tile gid="90"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="88"/>
+      <tile gid="90"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+    </data>
+  </layer>
+  <objectgroup name="objects" width="32" height="24">
+    <object name="library" class="Bridge" x="928" y="160" width="64" height="32">
+      <attribute name="ID" value="286"/>
+      <attribute name="name" value="library"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="library" class="BridgeDestination" x="928" y="192" width="64" height="32">
+      <attribute name="ID" value="287"/>
+      <attribute name="name" value="library"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="832" y="480" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="288"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="LIB1"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="704" y="480" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="289"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="LIB2"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="576" y="480" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="290"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="LIB3"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="672" y="384" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="291"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="LIB4"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="704" y="384" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="292"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="LIB4"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Lever" completeRedefinition="true" x="864" y="448" width="32" height="32">
+      <animation name="open" dx="1" dy="1" period="1" looping="false" file="graphics.png">65</animation>
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">55</animation>
+      <attribute name="ID" value="293"/>
+      <attribute name="name" value="lever"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="leverID" value="LIB1"/>
+      <attribute name="leverState" value="true"/>
+    </object>
+    <object class="Lever" completeRedefinition="true" x="736" y="448" width="32" height="32">
+      <animation name="open" dx="1" dy="1" period="1" looping="false" file="graphics.png">65</animation>
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">55</animation>
+      <attribute name="ID" value="294"/>
+      <attribute name="name" value="lever"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="leverID" value="LIB2"/>
+      <attribute name="leverState" value="true"/>
+    </object>
+    <object class="Lever" completeRedefinition="true" x="608" y="448" width="32" height="32">
+      <animation name="open" dx="1" dy="1" period="1" looping="false" file="graphics.png">65</animation>
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">55</animation>
+      <attribute name="ID" value="295"/>
+      <attribute name="name" value="lever"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="leverID" value="LIB3"/>
+      <attribute name="leverState" value="true"/>
+    </object>
+    <object class="Lever" completeRedefinition="true" x="448" y="416" width="32" height="32">
+      <animation name="open" dx="1" dy="1" period="1" looping="false" file="graphics.png">65</animation>
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">55</animation>
+      <attribute name="ID" value="296"/>
+      <attribute name="name" value="lever"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="leverID" value="LIB4"/>
+      <attribute name="leverState" value="true"/>
+    </object>
+    <object class="PushableWall" completeRedefinition="true" x="416" y="352" width="32" height="32">
+      <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">66</animation>
+      <attribute name="ID" value="297"/>
+      <attribute name="name" value="pushable-wall"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="push">
+        <playSound sound="sfx/lever.wav"/>
+      </eventRule>
+    </object>
+    <object class="PushableWall" completeRedefinition="true" x="192" y="224" width="32" height="32">
+      <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">66</animation>
+      <attribute name="ID" value="298"/>
+      <attribute name="name" value="pushable-wall"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="push">
+        <playSound sound="sfx/lever.wav"/>
+      </eventRule>
+    </object>
+    <object class="XPPotion" completeRedefinition="true" x="96" y="128" width="32" height="32">
+      <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">13</animation>
+      <attribute name="ID" value="299"/>
+      <attribute name="name" value="XP Potion+40"/>
+      <attribute name="gold" value="170"/>
+      <attribute name="takeable" value="true"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="xp" value="40"/>
+    </object>
+    <object class="XPPotion" completeRedefinition="true" x="96" y="160" width="32" height="32">
+      <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">13</animation>
+      <attribute name="ID" value="300"/>
+      <attribute name="name" value="XP Potion+40"/>
+      <attribute name="gold" value="170"/>
+      <attribute name="takeable" value="true"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="xp" value="40"/>
+    </object>
+    <object class="Scroll" completeRedefinition="true" x="384" y="416" width="32" height="32">
+      <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">144</animation>
+      <attribute name="ID" value="301"/>
+      <attribute name="name" value="Old Scroll"/>
+      <attribute name="gold" value="25"/>
+      <attribute name="takeable" value="true"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="spell" value="5"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="320" y="224" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="302"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="BLACKKEY"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Chest" completeRedefinition="true" x="288" y="160" width="32" height="32">
+      <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">29</animation>
+      <attribute name="ID" value="303"/>
+      <attribute name="name" value="Small chest"/>
+      <attribute name="takeable" value="true"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <items>
+        <object class="Key" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">28</animation>
+          <attribute name="ID" value="304"/>
+          <attribute name="name" value="White key"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="keyID" value="WHITEKEY"/>
+        </object>
+      </items>
+    </object>
+    <object class="Chest" completeRedefinition="true" x="352" y="160" width="32" height="32">
+      <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">29</animation>
+      <attribute name="ID" value="305"/>
+      <attribute name="name" value="Small chest"/>
+      <attribute name="takeable" value="true"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <items>
+        <object class="Key" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">28</animation>
+          <attribute name="ID" value="306"/>
+          <attribute name="name" value="White key"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="keyID" value="WHITEKEY"/>
+        </object>
+      </items>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="640" y="544" width="32" height="32">
+      <attribute name="ID" value="323"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="Hmm... I wonder who this Cyril guy is, who is mentioned everywhere here." performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="480" y="352" width="32" height="32">
+      <attribute name="ID" value="324"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="Some markings in the floor seem to point towards the opposite wall" performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="544" y="224" width="32" height="32">
+      <attribute name="ID" value="325"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="There&#39;s too many books here..." performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="544" y="96" width="32" height="32">
+      <attribute name="ID" value="326"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="Nothing useful here..." performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="800" y="160" width="32" height="32">
+      <attribute name="ID" value="327"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="I see lots of books about bringing back the dead... I have a bad feeling..." performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="96" y="256" width="32" height="0">
+      <attribute name="ID" value="328"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="I my god! Here it is! Granner was brought back to life by a guy called Cyril!" performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="96" y="320" width="32" height="128">
+      <attribute name="ID" value="329"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="I see signs of a dark ritual performed here not too long ago..." performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="864" y="544" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="307"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+        </addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <items>
+        <object class="Key" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">28</animation>
+          <attribute name="ID" value="308"/>
+          <attribute name="name" value="Small key"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="keyID" value="BLACKROCK"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="63"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="736" y="544" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="309"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+        </addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="64"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="832" y="288" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="310"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+        </addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="311"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="65"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="608" y="160" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="312"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+        </addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="313"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="66"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="192" y="288" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="314"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+        </addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="315"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="67"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="192" y="384" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="316"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+        </addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="68"/>
+    </object>
+    <object class="Priest" completeRedefinition="true" x="448" y="288" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">118</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">118</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">116</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">116</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">118,119</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">118,119</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">116,117</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">116,117</animation>
+      <attribute name="ID" value="317"/>
+      <attribute name="name" value="a Priest"/>
+      <attribute name="gold" value="25"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+        </addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <eventRule event="action_spell" spell="magic missile">
+        <playSound sound="sfx/spell-1.wav"/>
+      </eventRule>
+      <attribute name="hp" value="30" levelupadd="0"/>
+      <attribute name="max_hp" value="30"/>
+      <attribute name="mp" value="10" levelupadd="0"/>
+      <attribute name="max_mp" value="10"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="12"/>
+      <attribute name="attack" value="7" levelupadd="0"/>
+      <attribute name="defense" value="6" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <spell>magic missile</spell>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="318"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+        <object class="MPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">5</animation>
+          <attribute name="ID" value="319"/>
+          <attribute name="name" value="MP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="mp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="6"/>
+      <attribute name="respawn" value="0.5"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="69"/>
+    </object>
+    <object class="Priest" completeRedefinition="true" x="576" y="544" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">118</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">118</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">116</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">116</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">118,119</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">118,119</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">116,117</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">116,117</animation>
+      <attribute name="ID" value="320"/>
+      <attribute name="name" value="a Priest"/>
+      <attribute name="gold" value="25"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+        </addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <eventRule event="action_spell" spell="magic missile">
+        <playSound sound="sfx/spell-1.wav"/>
+      </eventRule>
+      <attribute name="hp" value="30" levelupadd="0"/>
+      <attribute name="max_hp" value="30"/>
+      <attribute name="mp" value="10" levelupadd="0"/>
+      <attribute name="max_mp" value="10"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="12"/>
+      <attribute name="attack" value="7" levelupadd="0"/>
+      <attribute name="defense" value="6" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <spell>magic missile</spell>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="321"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+        <object class="MPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">5</animation>
+          <attribute name="ID" value="322"/>
+          <attribute name="name" value="MP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="mp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="6"/>
+      <attribute name="respawn" value="0.5"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="70"/>
+    </object>
+  </objectgroup>
+  <respawnRecord ID="63" x="864" y="544" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="864" y="544" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="64" x="736" y="544" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="736" y="544" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="65" x="832" y="288" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="832" y="288" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="66" x="608" y="160" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="608" y="160" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="67" x="192" y="288" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="192" y="288" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="68" x="192" y="384" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="192" y="384" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="69" x="448" y="288" layer="2" respawn_probability="0.5" time_to_respawn="-1">
+    <object class="Priest" x="448" y="288" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="70" x="576" y="544" layer="2" respawn_probability="0.5" time_to_respawn="-1">
+    <object class="Priest" x="576" y="544" width="32" height="32">
+ </object>
+  </respawnRecord>
+</map>

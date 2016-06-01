@@ -1,0 +1,1911 @@
+<map version="1.0" orientation="orthogonal" width="18" height="16" tilewidth="32" tileheight="32">
+  <properties>
+    <property name="name" value="Black Rock entrance"/>
+  </properties>
+  <tileset firstgid="1" name="graphics" tilewidth="32" tileheight="32">
+    <image source="graphics.png" width="320" height="1184"/>
+  </tileset>
+  <layer name="Tile Layer 1" width="18" height="16">
+    <data>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+    </data>
+  </layer>
+  <layer name="Tile Layer 2" width="18" height="16">
+    <data>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="261"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="332"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="332"/>
+      <tile gid="301"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="241"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="54"/>
+      <tile gid="55"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="48"/>
+      <tile gid="48"/>
+      <tile gid="0"/>
+      <tile gid="241"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="242"/>
+      <tile gid="0"/>
+      <tile gid="64"/>
+      <tile gid="65"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="241"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="242"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="242"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="231"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="222"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="241"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="242"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="241"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="241"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="241"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="271"/>
+      <tile gid="331"/>
+      <tile gid="332"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="332"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="331"/>
+      <tile gid="312"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+    </data>
+  </layer>
+  <objectgroup name="objects" width="18" height="16">
+    <object name="blackrockeast" class="Bridge" x="544" y="224" width="32" height="64">
+      <attribute name="ID" value="140"/>
+      <attribute name="name" value="blackrockeast"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="blackrock" class="Bridge" x="128" y="128" width="32" height="32">
+      <attribute name="ID" value="142"/>
+      <attribute name="name" value="blackrock"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="blackrockeast" class="BridgeDestination" x="512" y="224" width="32" height="64">
+      <attribute name="ID" value="141"/>
+      <attribute name="name" value="blackrockeast"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="blackrock" class="BridgeDestination" x="160" y="128" width="32" height="64">
+      <attribute name="ID" value="143"/>
+      <attribute name="name" value="blackrock"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="480" y="224" width="128" height="128">
+      <attribute name="ID" value="165"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="Look at the number of Monks from the Cult! The King was right, we should report back." performative="inform"/>
+      </eventRule>
+      <eventRule event="activate" once="true">
+        <addTopic topic="Monks" text="The black rock is infested with monks from the Cult!"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="93" y="160" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="144"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="2"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(145,157,224,189,256,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(145,Monk)" activation="99"/>
+        <addWME wme="object(146,160,189,192,221,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(146,Monk)" activation="99"/>
+        <addWME wme="object(148,246,128,278,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="object(153,155,288,187,320,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(153,Monk)" activation="99"/>
+        <addWME wme="bridge(&#39;Blackrock&#39;,128,128,160,160,&#39;Black Rock entrance&#39;)" activation="1"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,96,192,128,224,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+location('home',96,192,128,224,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',96,192,128,224,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+location('home',96,192,128,224,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+location('home',96,192,128,224,'Black Rock entrance')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="16"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="155" y="224" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="145"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="3"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(144,93,160,125,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(144,Monk)" activation="99"/>
+        <addWME wme="object(146,160,189,192,221,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(146,Monk)" activation="99"/>
+        <addWME wme="object(148,246,128,278,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="object(153,155,288,187,320,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(153,Monk)" activation="99"/>
+        <addWME wme="object(156,160,384,192,416,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(156,Monk)" activation="99"/>
+        <addWME wme="bridge(&#39;Blackrock&#39;,128,128,160,160,&#39;Black Rock entrance&#39;)" activation="1"/>
+        <addWME wme="object(159,254,352,286,384,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(159,Monk)" activation="99"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="object(149,320,166,352,198,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="object(157,96,384,128,416,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(157,Monk)" activation="99"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,96,256,128,288,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+location('home',96,256,128,288,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',96,256,128,288,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+location('home',96,256,128,288,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+location('home',96,256,128,288,'Black Rock entrance')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="17"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="160" y="187" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="146"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="1"/>
+      <attribute name="previous_direction" value="1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="3"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="147"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(144,93,160,125,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(144,Monk)" activation="99"/>
+        <addWME wme="object(145,155,224,187,256,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(145,Monk)" activation="99"/>
+        <addWME wme="object(148,246,128,278,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="object(153,155,288,187,320,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(153,Monk)" activation="99"/>
+        <addWME wme="object(147,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(147,HPPotion)" activation="1"/>
+        <addWME wme="bridge(&#39;Blackrock&#39;,128,128,160,160,&#39;Black Rock entrance&#39;)" activation="1"/>
+        <addWME wme="object(159,254,352,286,384,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(159,Monk)" activation="99"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="object(149,320,166,352,198,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,160,192,192,224,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+location('home',160,192,192,224,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',160,192,192,224,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+location('home',160,192,192,224,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+location('home',160,192,192,224,'Black Rock entrance')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="18"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="247" y="128" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="148"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="17"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(144,93,160,125,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(144,Monk)" activation="99"/>
+        <addWME wme="object(145,155,224,187,256,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(145,Monk)" activation="99"/>
+        <addWME wme="object(146,160,187,192,219,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(146,Monk)" activation="99"/>
+        <addWME wme="object(149,320,166,352,198,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="object(150,352,128,384,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(150,Monk)" activation="99"/>
+        <addWME wme="object(152,352,160,384,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(152,Monk)" activation="99"/>
+        <addWME wme="object(153,155,288,187,320,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(153,Monk)" activation="99"/>
+        <addWME wme="object(161,416,98,448,130,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(161,Monk)" activation="99"/>
+        <addWME wme="bridge(&#39;Blackrock&#39;,128,128,160,160,&#39;Black Rock entrance&#39;)" activation="1"/>
+        <addWME wme="angry(152)" activation="99"/>
+        <addWME wme="angry(161)" activation="99"/>
+        <addWME wme="angry(150)" activation="99"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="object(162,384,155,416,187,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(162,Monk)" activation="99"/>
+        <addWME wme="angry(162)" activation="99"/>
+        <addWME wme="object(131,384,160,416,192,&#39;Black Rock entrance&#39;)" activation="54"/>
+        <addWME wme="is_a(131,Snake)" activation="99"/>
+        <addWME wme="angry(131)" activation="54"/>
+        <addWME wme="attack(131,162)" activation="72"/>
+        <addWME wme="attack(162,131)" activation="82"/>
+        <addWME wme="angry(148)" activation="250"/>
+        <addWME wme="die(131)" activation="99"/>
+        <addWME wme="attack(152,131)" activation="96"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,160,256,192,288,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="19"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="320" y="167" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="149"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="3"/>
+      <attribute name="previous_direction" value="3"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="5"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(148,247,128,279,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="object(150,352,128,384,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(150,Monk)" activation="99"/>
+        <addWME wme="object(152,352,160,384,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(152,Monk)" activation="99"/>
+        <addWME wme="object(161,416,98,448,130,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(161,Monk)" activation="99"/>
+        <addWME wme="object(162,384,155,416,187,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(162,Monk)" activation="99"/>
+        <addWME wme="object(159,254,352,286,384,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(159,Monk)" activation="99"/>
+        <addWME wme="object(131,384,160,416,192,&#39;Black Rock entrance&#39;)" activation="54"/>
+        <addWME wme="is_a(131,Snake)" activation="99"/>
+        <addWME wme="angry(131)" activation="54"/>
+        <addWME wme="attack(131,162)" activation="72"/>
+        <addWME wme="angry(152)" activation="99"/>
+        <addWME wme="angry(161)" activation="99"/>
+        <addWME wme="angry(162)" activation="99"/>
+        <addWME wme="angry(150)" activation="99"/>
+        <addWME wme="angry(149)" activation="250"/>
+        <addWME wme="attack(162,131)" activation="82"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="die(131)" activation="99"/>
+        <addWME wme="object(145,155,224,187,256,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(145,Monk)" activation="99"/>
+        <addWME wme="object(146,160,187,192,219,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(146,Monk)" activation="99"/>
+        <addWME wme="object(153,155,288,187,320,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(153,Monk)" activation="99"/>
+        <addWME wme="attack(152,131)" activation="96"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,192,160,224,192,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="20"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="352" y="128" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="150"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="4"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(148,247,128,279,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="object(149,320,167,352,199,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="object(152,352,160,384,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(152,Monk)" activation="99"/>
+        <addWME wme="object(161,416,98,448,130,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(161,Monk)" activation="99"/>
+        <addWME wme="object(162,384,155,416,187,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(162,Monk)" activation="99"/>
+        <addWME wme="object(131,384,160,416,192,&#39;Black Rock entrance&#39;)" activation="54"/>
+        <addWME wme="is_a(131,Snake)" activation="99"/>
+        <addWME wme="angry(131)" activation="54"/>
+        <addWME wme="attack(131,162)" activation="72"/>
+        <addWME wme="angry(152)" activation="99"/>
+        <addWME wme="angry(161)" activation="99"/>
+        <addWME wme="angry(162)" activation="99"/>
+        <addWME wme="angry(150)" activation="250"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="attack(162,131)" activation="82"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="die(131)" activation="99"/>
+        <addWME wme="attack(152,131)" activation="96"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,192,96,224,128,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="21"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="352" y="160" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="152"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="7"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(148,247,128,279,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="object(149,320,167,352,199,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="object(150,352,128,384,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(150,Monk)" activation="99"/>
+        <addWME wme="object(161,416,98,448,130,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(161,Monk)" activation="99"/>
+        <addWME wme="object(162,384,155,416,187,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(162,Monk)" activation="99"/>
+        <addWME wme="object(131,384,160,416,192,&#39;Black Rock entrance&#39;)" activation="54"/>
+        <addWME wme="is_a(131,Snake)" activation="99"/>
+        <addWME wme="angry(131)" activation="54"/>
+        <addWME wme="attack(131,162)" activation="72"/>
+        <addWME wme="angry(152)" activation="250"/>
+        <addWME wme="angry(161)" activation="99"/>
+        <addWME wme="angry(162)" activation="99"/>
+        <addWME wme="angry(150)" activation="99"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="attack(162,131)" activation="82"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="die(131)" activation="99"/>
+        <addWME wme="attack(152,131)" activation="96"/>
+        <addWME wme="is_a(152,Monk)" activation="96"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,256,96,288,128,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="23"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="154" y="288" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="153"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="4"/>
+      <items>
+        <object class="Key" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">28</animation>
+          <attribute name="ID" value="154"/>
+          <attribute name="name" value="Small key"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="keyID" value="BLACKROCK"/>
+        </object>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="155"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(144,93,160,125,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(144,Monk)" activation="99"/>
+        <addWME wme="object(145,155,224,187,256,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(145,Monk)" activation="99"/>
+        <addWME wme="object(146,160,187,192,219,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(146,Monk)" activation="99"/>
+        <addWME wme="object(148,247,128,279,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="object(156,160,384,192,416,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(156,Monk)" activation="99"/>
+        <addWME wme="object(157,96,384,128,416,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(157,Monk)" activation="99"/>
+        <addWME wme="object(159,254,352,286,384,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(159,Monk)" activation="99"/>
+        <addWME wme="object(154,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(154,Key)" activation="1"/>
+        <addWME wme="object(155,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(155,HPPotion)" activation="1"/>
+        <addWME wme="bridge(&#39;Blackrock&#39;,128,128,160,160,&#39;Black Rock entrance&#39;)" activation="1"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="object(149,320,167,352,199,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,96,320,128,352,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+location('home',96,320,128,352,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',96,320,128,352,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+location('home',96,320,128,352,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+location('home',96,320,128,352,'Black Rock entrance')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="24"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="160" y="384" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="156"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="523"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(145,155,224,187,256,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(145,Monk)" activation="99"/>
+        <addWME wme="object(153,154,288,186,320,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(153,Monk)" activation="99"/>
+        <addWME wme="object(157,96,384,128,416,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(157,Monk)" activation="99"/>
+        <addWME wme="object(159,254,352,286,384,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(159,Monk)" activation="99"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,160,320,192,352,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+location('home',160,320,192,352,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',160,320,192,352,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+location('home',160,320,192,352,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+location('home',160,320,192,352,'Black Rock entrance')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="25"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="96" y="384" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="157"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="1"/>
+      <attribute name="previous_direction" value="1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="27"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="158"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(153,154,288,186,320,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(153,Monk)" activation="99"/>
+        <addWME wme="object(156,160,384,192,416,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(156,Monk)" activation="99"/>
+        <addWME wme="object(159,254,352,286,384,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(159,Monk)" activation="99"/>
+        <addWME wme="object(158,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(158,HPPotion)" activation="1"/>
+        <addWME wme="object(145,155,224,187,256,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(145,Monk)" activation="99"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,96,384,128,416,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+location('home',96,384,128,416,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',96,384,128,416,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+location('home',96,384,128,416,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+location('home',96,384,128,416,'Black Rock entrance')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="26"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="255" y="352" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="159"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="119"/>
+      <items>
+        <object class="Key" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">28</animation>
+          <attribute name="ID" value="160"/>
+          <attribute name="name" value="Small key"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="keyID" value="BLACKROCK"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(153,154,288,186,320,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(153,Monk)" activation="99"/>
+        <addWME wme="object(156,160,384,192,416,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(156,Monk)" activation="99"/>
+        <addWME wme="object(157,96,384,128,416,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(157,Monk)" activation="99"/>
+        <addWME wme="object(160,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(160,Key)" activation="1"/>
+        <addWME wme="object(145,155,224,187,256,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(145,Monk)" activation="99"/>
+        <addWME wme="object(146,160,187,192,219,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(146,Monk)" activation="99"/>
+        <addWME wme="object(149,320,167,352,199,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,160,384,192,416,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+location('home',160,384,192,416,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',160,384,192,416,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+location('home',160,384,192,416,'Black Rock entrance')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+location('home',160,384,192,416,'Black Rock entrance')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="27"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="416" y="99" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="161"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="20" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="3"/>
+      <attribute name="previous_direction" value="3"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="26"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(148,247,128,279,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="object(149,320,167,352,199,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="object(150,352,128,384,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(150,Monk)" activation="99"/>
+        <addWME wme="object(152,352,160,384,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(152,Monk)" activation="99"/>
+        <addWME wme="object(162,384,155,416,187,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(162,Monk)" activation="99"/>
+        <addWME wme="object(131,384,160,416,192,&#39;Black Rock entrance&#39;)" activation="54"/>
+        <addWME wme="is_a(131,Snake)" activation="99"/>
+        <addWME wme="angry(131)" activation="54"/>
+        <addWME wme="angry(152)" activation="99"/>
+        <addWME wme="attack(131,162)" activation="72"/>
+        <addWME wme="angry(161)" activation="250"/>
+        <addWME wme="angry(162)" activation="99"/>
+        <addWME wme="angry(150)" activation="99"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="attack(162,131)" activation="82"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="bridge(&#39;the forest&#39;,544,224,576,288,&#39;Black Rock entrance&#39;)" activation="1"/>
+        <addWME wme="die(131)" activation="99"/>
+        <addWME wme="attack(152,131)" activation="96"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,320,96,352,128,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="28"/>
+    </object>
+    <object class="Monk" completeRedefinition="true" x="384" y="157" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">108</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">106</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">108,109</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">106,107</animation>
+      <attribute name="ID" value="162"/>
+      <attribute name="name" value="a Monk"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="17" levelupadd="0"/>
+      <attribute name="max_hp" value="20"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="2"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="8"/>
+      <attribute name="attack" value="6" levelupadd="0"/>
+      <attribute name="defense" value="4" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="3"/>
+      <attribute name="previous_direction" value="3"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="21"/>
+      <items>
+        <object class="Key" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">28</animation>
+          <attribute name="ID" value="163"/>
+          <attribute name="name" value="Small key"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="keyID" value="BLACKROCK"/>
+        </object>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="164"/>
+          <attribute name="name" value="HP Potion+10"/>
+          <attribute name="gold" value="25"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="10"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0.33"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="1268"/>
+      <onStart>
+        <addWME wme="object(149,320,167,352,199,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(149,Monk)" activation="99"/>
+        <addWME wme="object(150,352,128,384,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(150,Monk)" activation="99"/>
+        <addWME wme="object(152,352,160,384,192,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(152,Monk)" activation="99"/>
+        <addWME wme="object(161,416,99,448,131,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(161,Monk)" activation="99"/>
+        <addWME wme="object(163,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(163,Key)" activation="1"/>
+        <addWME wme="object(164,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(164,HPPotion)" activation="1"/>
+        <addWME wme="bridge(&#39;the forest&#39;,544,224,576,288,&#39;Black Rock entrance&#39;)" activation="1"/>
+        <addWME wme="object(131,384,160,416,192,&#39;Black Rock entrance&#39;)" activation="54"/>
+        <addWME wme="is_a(131,Snake)" activation="99"/>
+        <addWME wme="angry(131)" activation="54"/>
+        <addWME wme="angry(152)" activation="99"/>
+        <addWME wme="is_a(162,Monk)" activation="82"/>
+        <addWME wme="attack(131,162)" activation="72"/>
+        <addWME wme="angry(161)" activation="99"/>
+        <addWME wme="angry(162)" activation="250"/>
+        <addWME wme="angry(150)" activation="99"/>
+        <addWME wme="angry(149)" activation="99"/>
+        <addWME wme="attack(162,131)" activation="82"/>
+        <addWME wme="object(148,247,128,279,160,&#39;Black Rock entrance&#39;)" activation="99"/>
+        <addWME wme="is_a(148,Monk)" activation="99"/>
+        <addWME wme="angry(148)" activation="99"/>
+        <addWME wme="die(131)" activation="99"/>
+        <addWME wme="attack(152,131)" activation="96"/>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,320,160,352,192,&#39;Black Rock entrance&#39;)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="75">
+          <BYellToUnfriendly message="Intruders!"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BFollowAngryFriendly radius="64"/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <attribute name="respawnRecordID" value="29"/>
+    </object>
+  </objectgroup>
+  <respawnRecord ID="16" x="96" y="192" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="96" y="192" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="17" x="96" y="256" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="96" y="256" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="18" x="160" y="192" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="160" y="192" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="19" x="160" y="256" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="160" y="256" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="20" x="192" y="160" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="192" y="160" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="21" x="192" y="96" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="192" y="96" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="22" x="256" y="160" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="256" y="160" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="23" x="256" y="96" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="256" y="96" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="24" x="96" y="320" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="96" y="320" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="25" x="160" y="320" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="160" y="320" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="26" x="96" y="384" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="96" y="384" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="27" x="160" y="384" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="160" y="384" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="28" x="320" y="96" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="320" y="96" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="29" x="320" y="160" layer="2" respawn_probability="0.33" time_to_respawn="-1">
+    <object class="Monk" x="320" y="160" width="32" height="32">
+ </object>
+  </respawnRecord>
+</map>

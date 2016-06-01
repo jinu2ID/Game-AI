@@ -1,0 +1,169 @@
+<A4Game name="Test" title="Test Game">
+	<!-- General game info -->
+	<allowSaveGames value="true"/>
+
+	<!-- Intro screen configuration -->
+	<story>
+		<line>  This is just a test game...</line>
+	</story>
+	<ending id="1">
+		<line>This is ending one.</line>
+	</ending>
+	<ending id="2">
+		<line>This is ending two.</line>
+	</ending>
+
+	<!-- Tiles: -->
+	<tiles sourcewidth="32" sourceheight="32" targetwidth="32" targetheight="32">
+		<!-- 
+			 0 - walkable
+			 1 - wall
+			 2 - tree, but not choppeable
+			 3 - choppeable tree
+			 4 - water			
+		-->
+		<types file="graphics.png">
+			0,0,1,0,1,0,0,0,0,0,
+			1,1,1,0,0,0,0,0,0,0,
+			4,0,1,1,1,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,1,1,1,2,3,1,1,1,0,
+			0,1,1,1,1,0,0,0,1,0,
+			0,0,0,1,0,0,1,0,1,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,1,1,1,1,
+			0,0,0,0,0,1,0,0,0,0,
+			0,0,0,0,0,1,0,0,0,0,
+			0,0,0,0,0,1,0,0,0,0,
+			0,0,0,0,0,1,0,0,0,0,
+			0,0,0,0,0,1,0,0,0,0,
+			0,0,0,0,0,0,0,1,0,0,
+			0,0,0,0,1,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,1,1,1,1,
+			1,1,0,0,0,0,1,1,1,1,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+		</types>
+		<seeThrough file="graphics.png">
+			0,0,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,1,
+			0,0,0,0,0,0,0,0,0,1,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,1,0,1,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,1,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+			1,1,0,0,0,0,0,0,0,0,
+		</seeThrough>
+		<canDig file="graphics.png">
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			1,1,1,1,1,1,1,1,1,0,
+			1,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,
+			0,0,0,0,0,0,0,0,0,0,				  
+  		</canDig>
+
+  		<!-- default animations: -->
+		<animation name="coinpurse" dx="1" dy="1" period="4" looping="false" file="graphics.png">9</animation>
+		<animation name="curious" dx="1" dy="1" period="8" looping="true" file="graphics.png">74,-1</animation>
+		<animation name="scared" dx="1" dy="1" period="8" looping="true" file="graphics.png">84,-1</animation>
+		<animation name="angry" dx="1" dy="1" period="8" looping="true" file="graphics.png">94,-1</animation>
+		<animation name="tired" dx="1" dy="1" period="8" looping="true" file="graphics.png">104,-1</animation>
+		<animation name="happy" dx="1" dy="1" period="8" looping="true" file="graphics.png">75,-1</animation>
+		<animation name="magic missile" dx="1" dy="1" period="8" looping="false" file="graphics.png">114</animation>		
+		<animation name="fireball" dx="1" dy="1" period="8" looping="false" file="graphics.png">124</animation>		
+		<animation name="incinerate" dx="1" dy="1" period="8" looping="false" file="graphics.png">134</animation>		
+	</tiles>	
+
+	<!-- Game Definition -->
+
+	<characterDefinition file="baseclasses.xml"/>
+	<characterDefinition file="enemies.xml"/>
+	<characterDefinition file="players.xml"/>
+
+	<map file="map1.xml"/>
+
+	<player class="Wizard" x="256" y="256" map="0"/>
+
+	<onStart>
+		<addTopic topic="yourself" text="tell me about yourself"/>
+		<addTopic topic="rumors" text="Have you heard any rumors lately?"/>
+	</onStart>
+</A4Game>

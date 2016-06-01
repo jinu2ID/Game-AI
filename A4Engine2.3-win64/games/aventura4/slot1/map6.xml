@@ -1,0 +1,4311 @@
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+  <properties>
+    <property name="name" value="the forest"/>
+  </properties>
+  <tileset firstgid="1" name="graphics" tilewidth="32" tileheight="32">
+    <image source="graphics.png" width="320" height="1184"/>
+  </tileset>
+  <layer name="Tile Layer 1" width="40" height="40">
+    <data>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="31"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="36"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="34"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="36"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="34"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="34"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="37"/>
+      <tile gid="61"/>
+      <tile gid="61"/>
+      <tile gid="36"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="36"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="34"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="36"/>
+      <tile gid="37"/>
+      <tile gid="61"/>
+      <tile gid="34"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="35"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="34"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="51"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="61"/>
+      <tile gid="61"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="34"/>
+      <tile gid="38"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="34"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="36"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="41"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="36"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="32"/>
+      <tile gid="37"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="51"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="51"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="33"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="61"/>
+      <tile gid="61"/>
+      <tile gid="61"/>
+      <tile gid="61"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="61"/>
+      <tile gid="61"/>
+      <tile gid="61"/>
+      <tile gid="61"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="39"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="38"/>
+      <tile gid="35"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="21"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="38"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+      <tile gid="31"/>
+    </data>
+  </layer>
+  <layer name="Tile Layer 2" width="40" height="40">
+    <data>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="46"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="12"/>
+      <tile gid="54"/>
+      <tile gid="55"/>
+      <tile gid="12"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="12"/>
+      <tile gid="64"/>
+      <tile gid="65"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="47"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="43"/>
+      <tile gid="0"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="3"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="5"/>
+      <tile gid="0"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="22"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="44"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="42"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="52"/>
+      <tile gid="53"/>
+      <tile gid="0"/>
+      <tile gid="15"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="62"/>
+      <tile gid="63"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="15"/>
+      <tile gid="44"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="43"/>
+      <tile gid="13"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="23"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="25"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="3"/>
+      <tile gid="24"/>
+      <tile gid="4"/>
+      <tile gid="24"/>
+      <tile gid="4"/>
+      <tile gid="24"/>
+      <tile gid="5"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="48"/>
+      <tile gid="0"/>
+      <tile gid="48"/>
+      <tile gid="0"/>
+      <tile gid="49"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="49"/>
+      <tile gid="0"/>
+      <tile gid="48"/>
+      <tile gid="0"/>
+      <tile gid="48"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="48"/>
+      <tile gid="0"/>
+      <tile gid="49"/>
+      <tile gid="0"/>
+      <tile gid="49"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="23"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="24"/>
+      <tile gid="25"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="3"/>
+      <tile gid="24"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="13"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="46"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="67"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="23"/>
+      <tile gid="24"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="46"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="45"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="47"/>
+      <tile gid="0"/>
+    </data>
+  </layer>
+  <objectgroup name="objects" width="40" height="40">
+    <object name="abblegardwest" class="Bridge" x="608" y="608" width="32" height="32">
+      <attribute name="ID" value="103"/>
+      <attribute name="name" value="abblegardwest"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="abblegardeast" class="Bridge" x="768" y="512" width="32" height="32">
+      <attribute name="ID" value="104"/>
+      <attribute name="name" value="abblegardeast"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="blackrockeast" class="Bridge" x="128" y="96" width="32" height="32">
+      <attribute name="ID" value="107"/>
+      <attribute name="name" value="blackrockeast"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="sea" class="Bridge" x="1248" y="0" width="32" height="1216">
+      <attribute name="ID" value="109"/>
+      <attribute name="name" value="sea"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="northsea" class="Bridge" x="1024" y="0" width="448" height="32">
+      <attribute name="ID" value="111"/>
+      <attribute name="name" value="northsea"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="abblegardwest" class="BridgeDestination" x="576" y="608" width="32" height="32">
+      <attribute name="ID" value="105"/>
+      <attribute name="name" value="abblegardwest"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="abblegardeast" class="BridgeDestination" x="800" y="512" width="32" height="32">
+      <attribute name="ID" value="106"/>
+      <attribute name="name" value="abblegardeast"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="blackrockeast" class="BridgeDestination" x="160" y="96" width="32" height="32">
+      <attribute name="ID" value="108"/>
+      <attribute name="name" value="blackrockeast"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="sea" class="BridgeDestination" x="1216" y="800" width="32" height="64">
+      <attribute name="ID" value="110"/>
+      <attribute name="name" value="sea"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="northsea" class="BridgeDestination" x="1088" y="32" width="192" height="32">
+      <attribute name="ID" value="112"/>
+      <attribute name="name" value="northsea"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object class="Chest" completeRedefinition="true" x="416" y="1056" width="32" height="32">
+      <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">29</animation>
+      <attribute name="ID" value="113"/>
+      <attribute name="name" value="Small chest"/>
+      <attribute name="takeable" value="true"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="true"/>
+      <items>
+        <object class="CoinPurse" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="4" looping="false" file="graphics.png">9</animation>
+          <attribute name="ID" value="114"/>
+          <attribute name="name" value="CoinPurse"/>
+          <attribute name="gold" value="100"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="equipable" value="false"/>
+          <attribute name="useUponTake" value="false"/>
+          <attribute name="attackBonus" value="0"/>
+          <attribute name="defenseBonus" value="0"/>
+          <attribute name="magicMultiplier" value="1"/>
+        </object>
+      </items>
+    </object>
+    <object class="Door" completeRedefinition="true" x="1024" y="1056" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">49</animation>
+      <attribute name="ID" value="115"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="DOCKS"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Boat" completeRedefinition="true" x="1120" y="960" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="idle-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="idle-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="idle-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="moving-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="moving-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="moving-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="moving-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <attribute name="ID" value="116"/>
+      <attribute name="name" value="Boat"/>
+      <attribute name="canWalk" value="false"/>
+      <attribute name="canSwim" value="true"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="hp" value="100"/>
+      <attribute name="max_hp" value="100"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="2109"/>
+    </object>
+    <object class="Boat" completeRedefinition="true" x="1120" y="1056" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="idle-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="idle-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="idle-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="moving-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="moving-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="moving-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="moving-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <attribute name="ID" value="117"/>
+      <attribute name="name" value="Boat"/>
+      <attribute name="canWalk" value="false"/>
+      <attribute name="canSwim" value="true"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="hp" value="100"/>
+      <attribute name="max_hp" value="100"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="2109"/>
+    </object>
+    <object class="Boat" completeRedefinition="true" x="1184" y="960" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="idle-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="idle-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="idle-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="moving-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="moving-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="moving-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="moving-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <attribute name="ID" value="118"/>
+      <attribute name="name" value="Boat"/>
+      <attribute name="canWalk" value="false"/>
+      <attribute name="canSwim" value="true"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="hp" value="100"/>
+      <attribute name="max_hp" value="100"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="2109"/>
+    </object>
+    <object class="Boat" completeRedefinition="true" x="1184" y="1056" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="idle-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="idle-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="idle-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="moving-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="moving-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">158,159</animation>
+      <animation name="moving-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <animation name="moving-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">156,157</animation>
+      <attribute name="ID" value="119"/>
+      <attribute name="name" value="Boat"/>
+      <attribute name="canWalk" value="false"/>
+      <attribute name="canSwim" value="true"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="hp" value="100"/>
+      <attribute name="max_hp" value="100"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="2109"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="288" y="1120" width="32" height="32">
+      <attribute name="ID" value="120"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="Blozard has blocked the path with boulders!" performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Trigger" completeRedefinition="true" x="608" y="704" width="32" height="32">
+      <attribute name="ID" value="121"/>
+      <attribute name="name" value="trigger"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="activate" once="true">
+        <talkOther text="This place gives me the creeps..." performative="inform" wait="true"/>
+      </eventRule>
+      <attribute name="triggerState" value="false"/>
+    </object>
+    <object class="Frog" completeRedefinition="true" x="448" y="992" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="16" looping="false" file="graphics.png">112</animation>
+      <animation name="idle-up" dx="1" dy="1" period="16" looping="false" file="graphics.png">112</animation>
+      <animation name="idle-right" dx="1" dy="1" period="16" looping="false" file="graphics.png">110</animation>
+      <animation name="idle-down" dx="1" dy="1" period="16" looping="false" file="graphics.png">110</animation>
+      <animation name="moving-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">112,113</animation>
+      <animation name="moving-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">112,113</animation>
+      <animation name="moving-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">110,111</animation>
+      <animation name="moving-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">110,111</animation>
+      <attribute name="ID" value="122"/>
+      <attribute name="name" value="a Frog"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="4" levelupadd="0"/>
+      <attribute name="max_hp" value="4"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="1"/>
+      <attribute name="attack" value="1" levelupadd="0"/>
+      <attribute name="defense" value="0" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="32"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="59"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="123"/>
+          <attribute name="name" value="HP Potion+5"/>
+          <attribute name="gold" value="15"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="5"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(123,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(123,HPPotion)" activation="1"/>
+        <addWME wme="object(124,271,960,303,992,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(124,Frog)" activation="99"/>
+        <addWME wme="object(127,362,960,394,992,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(127,Frog)" activation="99"/>
+        <addWME wme="object(125,270,1024,302,1056,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(125,Frog)" activation="99"/>
+        <addWME wme="curious(127)" activation="43"/>
+        <addWME wme="object(684,480,864,512,896,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(684,Warrior)" activation="99"/>
+        <addWME wme="curious(122,684)" activation="138"/>
+        <addWME wme="tired(127)" activation="99"/>
+        <addWME wme="friendly(Frog)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="0">
+          <BLeftRight/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="10">
+          <BCurious pickup="true" sort="Object" time="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BTired timeWalking="400" restTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BFleeUnfriendly/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="500" cooldown="50"/>
+      <attribute name="respawnRecordID" value="1"/>
+    </object>
+    <object class="Frog" completeRedefinition="true" x="271" y="960" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="16" looping="false" file="graphics.png">112</animation>
+      <animation name="idle-up" dx="1" dy="1" period="16" looping="false" file="graphics.png">112</animation>
+      <animation name="idle-right" dx="1" dy="1" period="16" looping="false" file="graphics.png">110</animation>
+      <animation name="idle-down" dx="1" dy="1" period="16" looping="false" file="graphics.png">110</animation>
+      <animation name="moving-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">112,113</animation>
+      <animation name="moving-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">112,113</animation>
+      <animation name="moving-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">110,111</animation>
+      <animation name="moving-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">110,111</animation>
+      <attribute name="ID" value="124"/>
+      <attribute name="name" value="a Frog"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="4" levelupadd="0"/>
+      <attribute name="max_hp" value="4"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="1"/>
+      <attribute name="attack" value="1" levelupadd="0"/>
+      <attribute name="defense" value="0" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="32"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="56"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(122,448,992,480,1024,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(122,Frog)" activation="99"/>
+        <addWME wme="object(127,362,960,394,992,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(127,Frog)" activation="99"/>
+        <addWME wme="object(125,270,1024,302,1056,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(125,Frog)" activation="99"/>
+        <addWME wme="curious(127)" activation="43"/>
+        <addWME wme="curious(122)" activation="99"/>
+        <addWME wme="tired(127)" activation="99"/>
+        <addWME wme="friendly(Frog)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="0">
+          <BLeftRight/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="10">
+          <BCurious pickup="true" sort="Object" time="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BTired timeWalking="400" restTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BFleeUnfriendly/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="500" cooldown="50"/>
+      <attribute name="respawnRecordID" value="2"/>
+    </object>
+    <object class="Frog" completeRedefinition="true" x="270" y="1024" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="16" looping="false" file="graphics.png">112</animation>
+      <animation name="idle-up" dx="1" dy="1" period="16" looping="false" file="graphics.png">112</animation>
+      <animation name="idle-right" dx="1" dy="1" period="16" looping="false" file="graphics.png">110</animation>
+      <animation name="idle-down" dx="1" dy="1" period="16" looping="false" file="graphics.png">110</animation>
+      <animation name="moving-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">112,113</animation>
+      <animation name="moving-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">112,113</animation>
+      <animation name="moving-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">110,111</animation>
+      <animation name="moving-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">110,111</animation>
+      <attribute name="ID" value="125"/>
+      <attribute name="name" value="a Frog"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="4" levelupadd="0"/>
+      <attribute name="max_hp" value="4"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="1"/>
+      <attribute name="attack" value="1" levelupadd="0"/>
+      <attribute name="defense" value="0" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="32"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="56"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="126"/>
+          <attribute name="name" value="HP Potion+5"/>
+          <attribute name="gold" value="15"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="5"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(126,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(126,HPPotion)" activation="1"/>
+        <addWME wme="object(124,271,960,303,992,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(124,Frog)" activation="99"/>
+        <addWME wme="object(122,448,992,480,1024,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(122,Frog)" activation="99"/>
+        <addWME wme="object(127,362,960,394,992,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(127,Frog)" activation="99"/>
+        <addWME wme="curious(127)" activation="43"/>
+        <addWME wme="curious(122)" activation="99"/>
+        <addWME wme="tired(127)" activation="99"/>
+        <addWME wme="friendly(Frog)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="0">
+          <BLeftRight/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="10">
+          <BCurious pickup="true" sort="Object" time="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BTired timeWalking="400" restTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BFleeUnfriendly/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="500" cooldown="50"/>
+      <attribute name="respawnRecordID" value="3"/>
+    </object>
+    <object class="Frog" completeRedefinition="true" x="362" y="960" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="16" looping="false" file="graphics.png">112</animation>
+      <animation name="idle-up" dx="1" dy="1" period="16" looping="false" file="graphics.png">112</animation>
+      <animation name="idle-right" dx="1" dy="1" period="16" looping="false" file="graphics.png">110</animation>
+      <animation name="idle-down" dx="1" dy="1" period="16" looping="false" file="graphics.png">110</animation>
+      <animation name="moving-left" dx="1" dy="1" period="16" looping="true" file="graphics.png">112,113</animation>
+      <animation name="moving-up" dx="1" dy="1" period="16" looping="true" file="graphics.png">112,113</animation>
+      <animation name="moving-right" dx="1" dy="1" period="16" looping="true" file="graphics.png">110,111</animation>
+      <animation name="moving-down" dx="1" dy="1" period="16" looping="true" file="graphics.png">110,111</animation>
+      <attribute name="ID" value="127"/>
+      <attribute name="name" value="a Frog"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="4" levelupadd="0"/>
+      <attribute name="max_hp" value="4"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="1"/>
+      <attribute name="attack" value="1" levelupadd="0"/>
+      <attribute name="defense" value="0" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="32"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="56"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(124,271,960,303,992,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(124,Frog)" activation="99"/>
+        <addWME wme="object(122,448,992,480,1024,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(122,Frog)" activation="99"/>
+        <addWME wme="object(125,270,1024,302,1056,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(125,Frog)" activation="99"/>
+        <addWME wme="object(684,480,864,512,896,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(684,Warrior)" activation="99"/>
+        <addWME wme="curious(127,684)" activation="122"/>
+        <addWME wme="curious(122)" activation="99"/>
+        <addWME wme="tired(127)" activation="144"/>
+        <addWME wme="friendly(Frog)" activation="3000"/>
+        <addWME wme="unfriendly(Snake)" activation="3000"/>
+        <addBehavior priority="0">
+          <BLeftRight/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="10">
+          <BCurious pickup="true" sort="Object" time="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="25">
+          <BTired timeWalking="400" restTime="200"/>
+unfriendly(Snake)</addBehavior>
+        <addBehavior priority="50">
+          <BFleeUnfriendly/>
+unfriendly(Snake)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="500" cooldown="50"/>
+      <attribute name="respawnRecordID" value="4"/>
+    </object>
+    <object class="Snake" completeRedefinition="true" x="827" y="96" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="12" looping="false" file="graphics.png">122</animation>
+      <animation name="idle-up" dx="1" dy="1" period="12" looping="false" file="graphics.png">122</animation>
+      <animation name="idle-right" dx="1" dy="1" period="12" looping="false" file="graphics.png">120</animation>
+      <animation name="idle-down" dx="1" dy="1" period="12" looping="false" file="graphics.png">120</animation>
+      <animation name="moving-left" dx="1" dy="1" period="12" looping="true" file="graphics.png">122,123</animation>
+      <animation name="moving-up" dx="1" dy="1" period="12" looping="true" file="graphics.png">122,123</animation>
+      <animation name="moving-right" dx="1" dy="1" period="12" looping="true" file="graphics.png">120,121</animation>
+      <animation name="moving-down" dx="1" dy="1" period="12" looping="true" file="graphics.png">120,121</animation>
+      <attribute name="ID" value="130"/>
+      <attribute name="name" value="a Snake"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="6" levelupadd="0"/>
+      <attribute name="max_hp" value="6"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="2"/>
+      <attribute name="attack" value="3" levelupadd="0"/>
+      <attribute name="defense" value="1" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="20"/>
+      <attribute name="sightRadius" value="4"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(132,736,186,768,218,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(132,Snake)" activation="99"/>
+        <addWME wme="unfriendly(Human)" activation="3000"/>
+        <addWME wme="unfriendly(Frog)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Frog)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="2" pStop="0" stopTime="50"/>
+unfriendly(Frog)</addBehavior>
+      </onStart>
+      <attribute name="respawnRecordID" value="7"/>
+    </object>
+    <object class="Snake" completeRedefinition="true" x="736" y="187" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="12" looping="false" file="graphics.png">122</animation>
+      <animation name="idle-up" dx="1" dy="1" period="12" looping="false" file="graphics.png">122</animation>
+      <animation name="idle-right" dx="1" dy="1" period="12" looping="false" file="graphics.png">120</animation>
+      <animation name="idle-down" dx="1" dy="1" period="12" looping="false" file="graphics.png">120</animation>
+      <animation name="moving-left" dx="1" dy="1" period="12" looping="true" file="graphics.png">122,123</animation>
+      <animation name="moving-up" dx="1" dy="1" period="12" looping="true" file="graphics.png">122,123</animation>
+      <animation name="moving-right" dx="1" dy="1" period="12" looping="true" file="graphics.png">120,121</animation>
+      <animation name="moving-down" dx="1" dy="1" period="12" looping="true" file="graphics.png">120,121</animation>
+      <attribute name="ID" value="132"/>
+      <attribute name="name" value="a Snake"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="6" levelupadd="0"/>
+      <attribute name="max_hp" value="6"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="2"/>
+      <attribute name="attack" value="3" levelupadd="0"/>
+      <attribute name="defense" value="1" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="3"/>
+      <attribute name="previous_direction" value="3"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="20"/>
+      <attribute name="sightRadius" value="4"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(130,827,96,859,128,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(130,Snake)" activation="99"/>
+        <addWME wme="unfriendly(Human)" activation="3000"/>
+        <addWME wme="unfriendly(Frog)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Frog)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="2" pStop="0" stopTime="50"/>
+unfriendly(Frog)</addBehavior>
+      </onStart>
+      <attribute name="respawnRecordID" value="9"/>
+    </object>
+    <object class="Snake" completeRedefinition="true" x="475" y="608" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="12" looping="false" file="graphics.png">122</animation>
+      <animation name="idle-up" dx="1" dy="1" period="12" looping="false" file="graphics.png">122</animation>
+      <animation name="idle-right" dx="1" dy="1" period="12" looping="false" file="graphics.png">120</animation>
+      <animation name="idle-down" dx="1" dy="1" period="12" looping="false" file="graphics.png">120</animation>
+      <animation name="moving-left" dx="1" dy="1" period="12" looping="true" file="graphics.png">122,123</animation>
+      <animation name="moving-up" dx="1" dy="1" period="12" looping="true" file="graphics.png">122,123</animation>
+      <animation name="moving-right" dx="1" dy="1" period="12" looping="true" file="graphics.png">120,121</animation>
+      <animation name="moving-down" dx="1" dy="1" period="12" looping="true" file="graphics.png">120,121</animation>
+      <attribute name="ID" value="133"/>
+      <attribute name="name" value="a Snake"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="6" levelupadd="0"/>
+      <attribute name="max_hp" value="6"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="2"/>
+      <attribute name="attack" value="3" levelupadd="0"/>
+      <attribute name="defense" value="1" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="116"/>
+      <attribute name="sightRadius" value="4"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(684,480,767,512,799,&#39;the forest&#39;)" activation="19"/>
+        <addWME wme="is_a(684,Warrior)" activation="19"/>
+        <addWME wme="angry(133)" activation="250"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,608,608,640,640,&#39;the forest&#39;)" activation="1"/>
+        <addWME wme="unfriendly(Human)" activation="3000"/>
+        <addWME wme="unfriendly(Frog)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+unfriendly(Frog)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="2" pStop="0" stopTime="50"/>
+unfriendly(Frog)</addBehavior>
+      </onStart>
+      <attribute name="respawnRecordID" value="10"/>
+    </object>
+    <object class="Crab" completeRedefinition="true" x="902" y="1040" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="6" looping="false" file="graphics.png">132</animation>
+      <animation name="idle-up" dx="1" dy="1" period="6" looping="false" file="graphics.png">132</animation>
+      <animation name="idle-right" dx="1" dy="1" period="6" looping="false" file="graphics.png">130</animation>
+      <animation name="idle-down" dx="1" dy="1" period="6" looping="false" file="graphics.png">130</animation>
+      <animation name="moving-left" dx="1" dy="1" period="6" looping="true" file="graphics.png">132,133</animation>
+      <animation name="moving-up" dx="1" dy="1" period="6" looping="true" file="graphics.png">132,133</animation>
+      <animation name="moving-right" dx="1" dy="1" period="6" looping="true" file="graphics.png">130,131</animation>
+      <animation name="moving-down" dx="1" dy="1" period="6" looping="true" file="graphics.png">130,131</animation>
+      <attribute name="ID" value="135"/>
+      <attribute name="name" value="a Giant Crab"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="15" levelupadd="0"/>
+      <attribute name="max_hp" value="15"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="5"/>
+      <attribute name="attack" value="4" levelupadd="0"/>
+      <attribute name="defense" value="2" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="76"/>
+      <attribute name="sightRadius" value="4"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(139,918,992,950,1024,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(139,Crab)" activation="99"/>
+        <addWME wme="object(137,934,1040,966,1072,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(137,Crab)" activation="99"/>
+        <addWME wme="curious(135,137)" activation="57"/>
+        <addWME wme="curious(137)" activation="99"/>
+        <addWME wme="object(136,977,1152,1009,1184,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(136,Crab)" activation="99"/>
+        <addWME wme="curious(135,136)" activation="119"/>
+        <addWME wme="curious(136)" activation="99"/>
+        <addWME wme="curious(139)" activation="99"/>
+        <addWME wme="friendly(Crab)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+friendly(Crab)</addBehavior>
+        <addBehavior priority="25">
+          <BCurious pickup="true" sort="Object" time="200"/>
+friendly(Crab)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="2" pStop="0" stopTime="50"/>
+friendly(Crab)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="500" cooldown="50"/>
+      <attribute name="respawnRecordID" value="12"/>
+    </object>
+    <object class="Crab" completeRedefinition="true" x="975" y="1152" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="6" looping="false" file="graphics.png">132</animation>
+      <animation name="idle-up" dx="1" dy="1" period="6" looping="false" file="graphics.png">132</animation>
+      <animation name="idle-right" dx="1" dy="1" period="6" looping="false" file="graphics.png">130</animation>
+      <animation name="idle-down" dx="1" dy="1" period="6" looping="false" file="graphics.png">130</animation>
+      <animation name="moving-left" dx="1" dy="1" period="6" looping="true" file="graphics.png">132,133</animation>
+      <animation name="moving-up" dx="1" dy="1" period="6" looping="true" file="graphics.png">132,133</animation>
+      <animation name="moving-right" dx="1" dy="1" period="6" looping="true" file="graphics.png">130,131</animation>
+      <animation name="moving-down" dx="1" dy="1" period="6" looping="true" file="graphics.png">130,131</animation>
+      <attribute name="ID" value="136"/>
+      <attribute name="name" value="a Giant Crab"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="15" levelupadd="0"/>
+      <attribute name="max_hp" value="15"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="5"/>
+      <attribute name="attack" value="4" levelupadd="0"/>
+      <attribute name="defense" value="2" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="36"/>
+      <attribute name="sightRadius" value="4"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(117,1120,1056,1152,1088,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(117,Boat)" activation="99"/>
+        <addWME wme="object(137,934,1040,966,1072,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(137,Crab)" activation="99"/>
+        <addWME wme="object(119,1184,1056,1216,1088,&#39;the forest&#39;)" activation="39"/>
+        <addWME wme="is_a(119,Boat)" activation="39"/>
+        <addWME wme="curious(137)" activation="99"/>
+        <addWME wme="object(135,902,1040,934,1072,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(135,Crab)" activation="99"/>
+        <addWME wme="curious(135)" activation="99"/>
+        <addWME wme="curious(136,135)" activation="119"/>
+        <addWME wme="object(139,896,993,928,1025,&#39;the forest&#39;)" activation="82"/>
+        <addWME wme="is_a(139,Crab)" activation="82"/>
+        <addWME wme="curious(136,139)" activation="182"/>
+        <addWME wme="curious(139)" activation="82"/>
+        <addWME wme="friendly(Crab)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+friendly(Crab)</addBehavior>
+        <addBehavior priority="25">
+          <BCurious pickup="true" sort="Object" time="200"/>
+friendly(Crab)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="2" pStop="0" stopTime="50"/>
+friendly(Crab)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="500" cooldown="50"/>
+      <attribute name="respawnRecordID" value="13"/>
+    </object>
+    <object class="Crab" completeRedefinition="true" x="934" y="1040" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="6" looping="false" file="graphics.png">132</animation>
+      <animation name="idle-up" dx="1" dy="1" period="6" looping="false" file="graphics.png">132</animation>
+      <animation name="idle-right" dx="1" dy="1" period="6" looping="false" file="graphics.png">130</animation>
+      <animation name="idle-down" dx="1" dy="1" period="6" looping="false" file="graphics.png">130</animation>
+      <animation name="moving-left" dx="1" dy="1" period="6" looping="true" file="graphics.png">132,133</animation>
+      <animation name="moving-up" dx="1" dy="1" period="6" looping="true" file="graphics.png">132,133</animation>
+      <animation name="moving-right" dx="1" dy="1" period="6" looping="true" file="graphics.png">130,131</animation>
+      <animation name="moving-down" dx="1" dy="1" period="6" looping="true" file="graphics.png">130,131</animation>
+      <attribute name="ID" value="137"/>
+      <attribute name="name" value="a Giant Crab"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="15" levelupadd="0"/>
+      <attribute name="max_hp" value="15"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="5"/>
+      <attribute name="attack" value="4" levelupadd="0"/>
+      <attribute name="defense" value="2" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="76"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="138"/>
+          <attribute name="name" value="HP Potion+5"/>
+          <attribute name="gold" value="15"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="5"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="4"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(138,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(138,HPPotion)" activation="1"/>
+        <addWME wme="object(136,975,1152,1007,1184,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(136,Crab)" activation="99"/>
+        <addWME wme="object(139,918,992,950,1024,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(139,Crab)" activation="99"/>
+        <addWME wme="object(135,902,1040,934,1072,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(135,Crab)" activation="99"/>
+        <addWME wme="curious(135)" activation="99"/>
+        <addWME wme="curious(137,135)" activation="57"/>
+        <addWME wme="curious(136)" activation="99"/>
+        <addWME wme="curious(139)" activation="99"/>
+        <addWME wme="friendly(Crab)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+friendly(Crab)</addBehavior>
+        <addBehavior priority="25">
+          <BCurious pickup="true" sort="Object" time="200"/>
+friendly(Crab)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="2" pStop="0" stopTime="50"/>
+friendly(Crab)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="500" cooldown="50"/>
+      <attribute name="respawnRecordID" value="14"/>
+    </object>
+    <object class="Crab" completeRedefinition="true" x="919" y="992" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="6" looping="false" file="graphics.png">132</animation>
+      <animation name="idle-up" dx="1" dy="1" period="6" looping="false" file="graphics.png">132</animation>
+      <animation name="idle-right" dx="1" dy="1" period="6" looping="false" file="graphics.png">130</animation>
+      <animation name="idle-down" dx="1" dy="1" period="6" looping="false" file="graphics.png">130</animation>
+      <animation name="moving-left" dx="1" dy="1" period="6" looping="true" file="graphics.png">132,133</animation>
+      <animation name="moving-up" dx="1" dy="1" period="6" looping="true" file="graphics.png">132,133</animation>
+      <animation name="moving-right" dx="1" dy="1" period="6" looping="true" file="graphics.png">130,131</animation>
+      <animation name="moving-down" dx="1" dy="1" period="6" looping="true" file="graphics.png">130,131</animation>
+      <attribute name="ID" value="139"/>
+      <attribute name="name" value="a Giant Crab"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <attribute name="hp" value="15" levelupadd="0"/>
+      <attribute name="max_hp" value="15"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="5"/>
+      <attribute name="attack" value="4" levelupadd="0"/>
+      <attribute name="defense" value="2" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="2"/>
+      <attribute name="previous_direction" value="2"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="17"/>
+      <attribute name="sightRadius" value="4"/>
+      <attribute name="respawn" value="1"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="2109"/>
+      <onStart>
+        <addWME wme="object(137,934,1040,966,1072,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(137,Crab)" activation="99"/>
+        <addWME wme="object(135,902,1040,934,1072,&#39;the forest&#39;)" activation="99"/>
+        <addWME wme="is_a(135,Crab)" activation="99"/>
+        <addWME wme="curious(137)" activation="99"/>
+        <addWME wme="curious(135)" activation="99"/>
+        <addWME wme="object(136,998,1152,1030,1184,&#39;the forest&#39;)" activation="82"/>
+        <addWME wme="is_a(136,Crab)" activation="82"/>
+        <addWME wme="curious(136)" activation="82"/>
+        <addWME wme="curious(139,136)" activation="182"/>
+        <addWME wme="friendly(Crab)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+friendly(Crab)</addBehavior>
+        <addBehavior priority="25">
+          <BCurious pickup="true" sort="Object" time="200"/>
+friendly(Crab)</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="2" pStop="0" stopTime="50"/>
+friendly(Crab)</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="500" cooldown="50"/>
+      <attribute name="respawnRecordID" value="15"/>
+    </object>
+  </objectgroup>
+  <respawnRecord ID="1" x="96" y="928" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Frog" x="96" y="928" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="2" x="128" y="1056" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Frog" x="128" y="1056" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="3" x="256" y="1024" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Frog" x="256" y="1024" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="4" x="480" y="1024" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Frog" x="480" y="1024" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="5" x="512" y="768" layer="2" respawn_probability="1" time_to_respawn="1047">
+    <object class="Frog" x="512" y="768" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="6" x="544" y="288" layer="2" respawn_probability="1" time_to_respawn="1632">
+    <object class="Snake" x="544" y="288" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="7" x="672" y="128" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Snake" x="672" y="128" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="8" x="320" y="128" layer="2" respawn_probability="1" time_to_respawn="1954">
+    <object class="Snake" x="320" y="128" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="9" x="864" y="128" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Snake" x="864" y="128" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="10" x="288" y="352" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Snake" x="288" y="352" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="11" x="64" y="640" layer="2" respawn_probability="1" time_to_respawn="1511">
+    <object class="Snake" x="64" y="640" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="12" x="1056" y="1184" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Crab" x="1056" y="1184" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="13" x="928" y="1024" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Crab" x="928" y="1024" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="14" x="1024" y="928" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Crab" x="1024" y="928" width="32" height="32">
+  </object>
+  </respawnRecord>
+  <respawnRecord ID="15" x="928" y="832" layer="2" respawn_probability="1" time_to_respawn="-1">
+    <object class="Crab" x="928" y="832" width="32" height="32">
+ </object>
+  </respawnRecord>
+</map>

@@ -1,0 +1,2146 @@
+<map version="1.0" orientation="orthogonal" width="13" height="15" tilewidth="32" tileheight="32">
+  <properties>
+    <property name="name" value="the inn"/>
+  </properties>
+  <tileset firstgid="1" name="graphics" tilewidth="32" tileheight="32">
+    <image source="graphics.png" width="320" height="1184"/>
+  </tileset>
+  <layer name="Tile Layer 1" width="13" height="15">
+    <data>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="0"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+      <tile gid="60"/>
+    </data>
+  </layer>
+  <layer name="Tile Layer 2" width="13" height="15">
+    <data>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="106"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="106"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="106"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="88"/>
+      <tile gid="89"/>
+      <tile gid="89"/>
+      <tile gid="89"/>
+      <tile gid="89"/>
+      <tile gid="89"/>
+      <tile gid="89"/>
+      <tile gid="89"/>
+      <tile gid="90"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="96"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="87"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="96"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="87"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="96"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+      <tile gid="11"/>
+    </data>
+  </layer>
+  <objectgroup name="objects" width="13" height="15">
+    <object name="inn" class="Bridge" x="160" y="448" width="96" height="32">
+      <attribute name="ID" value="82"/>
+      <attribute name="name" value="inn"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="inn" class="BridgeDestination" x="160" y="416" width="96" height="32">
+      <attribute name="ID" value="83"/>
+      <attribute name="name" value="inn"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="32" y="96" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="84"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="INNR1"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="160" y="96" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="85"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="INNR2"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="288" y="96" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">39</animation>
+      <attribute name="ID" value="86"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="INNR3"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Soldier" completeRedefinition="true" x="352" y="320" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">142</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">142</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">140</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">140</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">142,143</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">142,143</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">140,141</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">140,141</animation>
+      <attribute name="ID" value="87"/>
+      <attribute name="name" value="a Soldier"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <storyStateRule scope="game" variable="Granner" value="alive" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I&#39;ve heart that Granners&#39;s alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Granner" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="They say corpses have been washing ashore, it had never happened before!" performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Blozard" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the King is looking for a husband for his daughter." performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="King" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="the king" consume="true" from="in-conversation">
+          <talk text="King Cabolo was very generous, I don&#39;t know what is going to happen now with him dead!" performative="inform"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the princess will take a husband, I hope it&#39;s me!" performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <attribute name="hp" value="30" levelupadd="0"/>
+      <attribute name="max_hp" value="30"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="20"/>
+      <attribute name="attack" value="10" levelupadd="0"/>
+      <attribute name="defense" value="5" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="841"/>
+      <attribute name="sightRadius" value="7"/>
+      <attribute name="respawn" value="0"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="841"/>
+      <onStart>
+        <addWME wme="object(88,288,320,320,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(88,Soldier)" activation="99"/>
+        <addWME wme="object(94,288,384,320,416,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(94,Peasant)" activation="99"/>
+        <addWME wme="object(95,257,224,289,256,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(95,Ji)" activation="99"/>
+        <addWME wme="bridge(&#39;the forest&#39;,0,448,32,480,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the forest&#39;,736,256,768,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the Abblegard Castle&#39;,384,256,448,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;a shop&#39;,224,320,256,352,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;an armory&#39;,576,96,608,128,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the inn&#39;,576,384,608,416,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,160,448,256,480,&#39;the inn&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,608,608,640,640,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,768,512,800,544,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Black Rock entrance&#39;,128,96,160,128,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the east sea&#39;,1248,0,1280,1216,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the north sea&#39;,1024,0,1472,32,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,224,480,320,512,&#39;the Abblegard Castle&#39;)" activation="3000"/>
+        <addWME wme="friendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(Animal)" activation="3000"/>
+        <addWME wme="unfriendly(Undead)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,352,320,384,352,&#39;the inn&#39;)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',352,320,384,352,'the inn')</addBehavior>
+        <addBehavior priority="0">
+          <BGoto location="home" radius="0"/>
+location('home',352,320,384,352,'the inn')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowFromWME radius="96"/>
+location('home',352,320,384,352,'the inn')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <conversationGraph>
+        <state name="none">
+          <transition actor="self" performative="hi" state="sent-hi" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Good day!" performative="hi"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="sent-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true"/>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="in-conversation-only-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="inform" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="ask" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="bye" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="trade" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="timeout" state="none" consume="true"/>
+        </state>
+        <state name="in-conversation">
+          <transition actor="self" performative="bye" state="sent-bye" consume="true"/>
+          <transition actor="self" performative="inform" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="true">
+            <talk text="I am sorry, I do not know anything about that." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-trade" consume="true">
+            <startTrading/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="yourself" consume="true">
+            <talk text="I&#39;m a soldier. I maintain the peace in Abblegard." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="abblegard" consume="true">
+            <talk text="Abblegard is built around the King&#39;s castle." performative="inform"/>
+            <talk text="You&#39;ll find many shops and interesting stuff here!" performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the king" consume="true">
+            <talk text="King Cabolo is very generous, we are very proud to serve him." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="blozard" consume="true">
+            <talk text="Blozard was a black dragon that hated Abblegard for some reason. Not sure why..." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner" consume="true">
+            <talk text="Granner was a fanatic of the cult. He rebuilt the whole cult even after Blozard was slain." performative="inform"/>
+            <addTopic topic="the cult" text="What can you tell me about the cult?"/>
+            <addTopic topic="blozard" text="What can you tell me about Blozard?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the cult" consume="true">
+            <talk text="The cult is a religious organization that venerates Blozard as their God. Their headquarters were in a tower called the black rock." performative="inform"/>
+            <addTopic topic="blozard" text="What can you tell me about Blozard?"/>
+            <addTopic topic="the black rock" text="What can you tell me about the black rock?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the black rock" consume="true">
+            <talk text="You can find the black rock in the north-west of Abblegard." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner&#39;s tomb" consume="true">
+            <talk text="Now, that&#39;s a weird question... but it should be in the graveyard south of sthe village." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Monks" consume="true">
+            <talk text="We knew something was going on! The King must be informed at once!" performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="rumors" consume="true">
+            <talk text="I&#39;ve heart that Granners&#39;s remains have been stolen from his grave!" performative="inform"/>
+            <addTopic topic="Granner" text="what can you tell me about Granner?"/>
+            <addTopic topic="Granner&#39;s tomb" text="Where is Granner&#39;s tomb?"/>
+          </transition>
+        </state>
+        <state name="in-trade">
+          <transition actor="other" performative="endtrade" state="in-conversation" consume="true"/>
+        </state>
+        <state name="sent-bye">
+          <transition actor="other" state="in-conversation" consume="false">
+            <talk text="I thought we were done talking..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+        </state>
+      </conversationGraph>
+    </object>
+    <object class="Soldier" completeRedefinition="true" x="288" y="320" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">142</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">142</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">140</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">140</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">142,143</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">142,143</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">140,141</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">140,141</animation>
+      <attribute name="ID" value="88"/>
+      <attribute name="name" value="a Soldier"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <storyStateRule scope="game" variable="Granner" value="alive" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I&#39;ve heart that Granners&#39;s alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Granner" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="They say corpses have been washing ashore, it had never happened before!" performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Blozard" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the King is looking for a husband for his daughter." performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="King" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="the king" consume="true" from="in-conversation">
+          <talk text="King Cabolo was very generous, I don&#39;t know what is going to happen now with him dead!" performative="inform"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the princess will take a husband, I hope it&#39;s me!" performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <attribute name="hp" value="30" levelupadd="0"/>
+      <attribute name="max_hp" value="30"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="20"/>
+      <attribute name="attack" value="10" levelupadd="0"/>
+      <attribute name="defense" value="5" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="841"/>
+      <items>
+        <object class="Food" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">18</animation>
+          <attribute name="ID" value="89"/>
+          <attribute name="name" value="Chicken Leg"/>
+          <attribute name="gold" value="5"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="equipable" value="false"/>
+          <attribute name="useUponTake" value="false"/>
+          <attribute name="attackBonus" value="0"/>
+          <attribute name="defenseBonus" value="0"/>
+          <attribute name="magicMultiplier" value="1"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="7"/>
+      <attribute name="respawn" value="0"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="841"/>
+      <onStart>
+        <addWME wme="object(87,352,320,384,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(87,Soldier)" activation="99"/>
+        <addWME wme="object(90,96,384,128,416,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(90,Soldier)" activation="99"/>
+        <addWME wme="object(93,96,320,128,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(93,Peasant)" activation="99"/>
+        <addWME wme="object(94,288,384,320,416,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(94,Peasant)" activation="99"/>
+        <addWME wme="object(95,257,224,289,256,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(95,Ji)" activation="99"/>
+        <addWME wme="object(89,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(89,Food)" activation="1"/>
+        <addWME wme="bridge(&#39;the forest&#39;,0,448,32,480,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the forest&#39;,736,256,768,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the Abblegard Castle&#39;,384,256,448,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;a shop&#39;,224,320,256,352,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;an armory&#39;,576,96,608,128,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the inn&#39;,576,384,608,416,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,160,448,256,480,&#39;the inn&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,608,608,640,640,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,768,512,800,544,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Black Rock entrance&#39;,128,96,160,128,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the east sea&#39;,1248,0,1280,1216,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the north sea&#39;,1024,0,1472,32,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,224,480,320,512,&#39;the Abblegard Castle&#39;)" activation="3000"/>
+        <addWME wme="friendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(Animal)" activation="3000"/>
+        <addWME wme="unfriendly(Undead)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,288,320,320,352,&#39;the inn&#39;)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',288,320,320,352,'the inn')</addBehavior>
+        <addBehavior priority="0">
+          <BGoto location="home" radius="0"/>
+location('home',288,320,320,352,'the inn')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowFromWME radius="96"/>
+location('home',288,320,320,352,'the inn')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <conversationGraph>
+        <state name="none">
+          <transition actor="self" performative="hi" state="sent-hi" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Good day!" performative="hi"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="sent-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true"/>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="in-conversation-only-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="inform" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="ask" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="bye" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="trade" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="timeout" state="none" consume="true"/>
+        </state>
+        <state name="in-conversation">
+          <transition actor="self" performative="bye" state="sent-bye" consume="true"/>
+          <transition actor="self" performative="inform" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="true">
+            <talk text="I am sorry, I do not know anything about that." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-trade" consume="true">
+            <startTrading/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="yourself" consume="true">
+            <talk text="I&#39;m a soldier. I maintain the peace in Abblegard." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="abblegard" consume="true">
+            <talk text="Abblegard is built around the King&#39;s castle." performative="inform"/>
+            <talk text="You&#39;ll find many shops and interesting stuff here!" performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the king" consume="true">
+            <talk text="King Cabolo is very generous, we are very proud to serve him." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="blozard" consume="true">
+            <talk text="Blozard was a black dragon that hated Abblegard for some reason. Not sure why..." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner" consume="true">
+            <talk text="Granner was a fanatic of the cult. He rebuilt the whole cult even after Blozard was slain." performative="inform"/>
+            <addTopic topic="the cult" text="What can you tell me about the cult?"/>
+            <addTopic topic="blozard" text="What can you tell me about Blozard?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the cult" consume="true">
+            <talk text="The cult is a religious organization that venerates Blozard as their God. Their headquarters were in a tower called the black rock." performative="inform"/>
+            <addTopic topic="blozard" text="What can you tell me about Blozard?"/>
+            <addTopic topic="the black rock" text="What can you tell me about the black rock?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the black rock" consume="true">
+            <talk text="You can find the black rock in the north-west of Abblegard." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner&#39;s tomb" consume="true">
+            <talk text="Now, that&#39;s a weird question... but it should be in the graveyard south of sthe village." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Monks" consume="true">
+            <talk text="We knew something was going on! The King must be informed at once!" performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="rumors" consume="true">
+            <talk text="I&#39;ve heart that Granners&#39;s remains have been stolen from his grave!" performative="inform"/>
+            <addTopic topic="Granner" text="what can you tell me about Granner?"/>
+            <addTopic topic="Granner&#39;s tomb" text="Where is Granner&#39;s tomb?"/>
+          </transition>
+        </state>
+        <state name="in-trade">
+          <transition actor="other" performative="endtrade" state="in-conversation" consume="true"/>
+        </state>
+        <state name="sent-bye">
+          <transition actor="other" state="in-conversation" consume="false">
+            <talk text="I thought we were done talking..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+        </state>
+      </conversationGraph>
+    </object>
+    <object class="Soldier" completeRedefinition="true" x="96" y="384" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">142</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">142</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">140</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">140</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">142,143</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">142,143</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">140,141</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">140,141</animation>
+      <attribute name="ID" value="90"/>
+      <attribute name="name" value="a Soldier"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <storyStateRule scope="game" variable="Granner" value="alive" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I&#39;ve heart that Granners&#39;s alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Granner" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="They say corpses have been washing ashore, it had never happened before!" performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Blozard" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the King is looking for a husband for his daughter." performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="King" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="the king" consume="true" from="in-conversation">
+          <talk text="King Cabolo was very generous, I don&#39;t know what is going to happen now with him dead!" performative="inform"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the princess will take a husband, I hope it&#39;s me!" performative="inform"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <attribute name="hp" value="30" levelupadd="0"/>
+      <attribute name="max_hp" value="30"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="20"/>
+      <attribute name="attack" value="10" levelupadd="0"/>
+      <attribute name="defense" value="5" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="841"/>
+      <items>
+        <object class="Food" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">18</animation>
+          <attribute name="ID" value="91"/>
+          <attribute name="name" value="Chicken Leg"/>
+          <attribute name="gold" value="5"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="equipable" value="false"/>
+          <attribute name="useUponTake" value="false"/>
+          <attribute name="attackBonus" value="0"/>
+          <attribute name="defenseBonus" value="0"/>
+          <attribute name="magicMultiplier" value="1"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="7"/>
+      <attribute name="respawn" value="0"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="841"/>
+      <onStart>
+        <addWME wme="object(88,288,320,320,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(88,Soldier)" activation="99"/>
+        <addWME wme="object(92,32,320,64,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(92,Peasant)" activation="99"/>
+        <addWME wme="object(93,96,320,128,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(93,Peasant)" activation="99"/>
+        <addWME wme="object(94,288,384,320,416,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(94,Peasant)" activation="99"/>
+        <addWME wme="object(91,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(91,Food)" activation="1"/>
+        <addWME wme="object(95,257,224,289,256,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(95,Ji)" activation="99"/>
+        <addWME wme="bridge(&#39;the forest&#39;,0,448,32,480,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the forest&#39;,736,256,768,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the Abblegard Castle&#39;,384,256,448,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;a shop&#39;,224,320,256,352,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;an armory&#39;,576,96,608,128,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the inn&#39;,576,384,608,416,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,160,448,256,480,&#39;the inn&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,608,608,640,640,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,768,512,800,544,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Black Rock entrance&#39;,128,96,160,128,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the east sea&#39;,1248,0,1280,1216,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the north sea&#39;,1024,0,1472,32,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,224,480,320,512,&#39;the Abblegard Castle&#39;)" activation="3000"/>
+        <addWME wme="friendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(Animal)" activation="3000"/>
+        <addWME wme="unfriendly(Undead)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,96,384,128,416,&#39;the inn&#39;)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',96,384,128,416,'the inn')</addBehavior>
+        <addBehavior priority="0">
+          <BGoto location="home" radius="0"/>
+location('home',96,384,128,416,'the inn')</addBehavior>
+        <addBehavior priority="25">
+          <BFollowFromWME radius="96"/>
+location('home',96,384,128,416,'the inn')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <conversationGraph>
+        <state name="none">
+          <transition actor="self" performative="hi" state="sent-hi" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Good day!" performative="hi"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="sent-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true"/>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="in-conversation-only-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="inform" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="ask" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="bye" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="trade" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="timeout" state="none" consume="true"/>
+        </state>
+        <state name="in-conversation">
+          <transition actor="self" performative="bye" state="sent-bye" consume="true"/>
+          <transition actor="self" performative="inform" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="true">
+            <talk text="I am sorry, I do not know anything about that." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-trade" consume="true">
+            <startTrading/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="yourself" consume="true">
+            <talk text="I&#39;m a soldier. I maintain the peace in Abblegard." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="abblegard" consume="true">
+            <talk text="Abblegard is built around the King&#39;s castle." performative="inform"/>
+            <talk text="You&#39;ll find many shops and interesting stuff here!" performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the king" consume="true">
+            <talk text="King Cabolo is very generous, we are very proud to serve him." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="blozard" consume="true">
+            <talk text="Blozard was a black dragon that hated Abblegard for some reason. Not sure why..." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner" consume="true">
+            <talk text="Granner was a fanatic of the cult. He rebuilt the whole cult even after Blozard was slain." performative="inform"/>
+            <addTopic topic="the cult" text="What can you tell me about the cult?"/>
+            <addTopic topic="blozard" text="What can you tell me about Blozard?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the cult" consume="true">
+            <talk text="The cult is a religious organization that venerates Blozard as their God. Their headquarters were in a tower called the black rock." performative="inform"/>
+            <addTopic topic="blozard" text="What can you tell me about Blozard?"/>
+            <addTopic topic="the black rock" text="What can you tell me about the black rock?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the black rock" consume="true">
+            <talk text="You can find the black rock in the north-west of Abblegard." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner&#39;s tomb" consume="true">
+            <talk text="Now, that&#39;s a weird question... but it should be in the graveyard south of sthe village." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Monks" consume="true">
+            <talk text="We knew something was going on! The King must be informed at once!" performative="inform"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="rumors" consume="true">
+            <talk text="I&#39;ve heart that Granners&#39;s remains have been stolen from his grave!" performative="inform"/>
+            <addTopic topic="Granner" text="what can you tell me about Granner?"/>
+            <addTopic topic="Granner&#39;s tomb" text="Where is Granner&#39;s tomb?"/>
+          </transition>
+        </state>
+        <state name="in-trade">
+          <transition actor="other" performative="endtrade" state="in-conversation" consume="true"/>
+        </state>
+        <state name="sent-bye">
+          <transition actor="other" state="in-conversation" consume="false">
+            <talk text="I thought we were done talking..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+        </state>
+      </conversationGraph>
+    </object>
+    <object class="Peasant" completeRedefinition="true" x="32" y="320" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">102</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">102</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">100</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">100</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">102,103</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">102,103</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">100,101</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">100,101</animation>
+      <attribute name="ID" value="92"/>
+      <attribute name="name" value="Peasant"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <storyStateRule scope="game" variable="Granner" value="alive" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I&#39;ve heart that Granners&#39;s alive!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He was the black dragon, and he might be alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Granner" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="They say corpses have been washing ashore, it had never happened before!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He was the black dragon, and he is alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Blozard" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the pricess has an eye on one of you!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He&#39;s dead. We can now breathe for a while!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="King" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the pricess has an eye on one of you! With the kind dead, you might be king!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="the king" consume="true" from="in-conversation">
+          <talk text="He&#39;s dead... what is going to be of us now!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <attribute name="hp" value="5" levelupadd="0"/>
+      <attribute name="max_hp" value="5"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="3"/>
+      <attribute name="attack" value="4" levelupadd="0"/>
+      <attribute name="defense" value="2" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="841"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="841"/>
+      <onStart>
+        <addWME wme="object(90,96,384,128,416,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(90,Soldier)" activation="99"/>
+        <addWME wme="object(93,96,320,128,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(93,Peasant)" activation="99"/>
+        <addWME wme="bridge(&#39;the forest&#39;,0,448,32,480,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the forest&#39;,736,256,768,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the Abblegard Castle&#39;,384,256,448,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;a shop&#39;,224,320,256,352,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;an armory&#39;,576,96,608,128,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the inn&#39;,576,384,608,416,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,160,448,256,480,&#39;the inn&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,608,608,640,640,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,768,512,800,544,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Black Rock entrance&#39;,128,96,160,128,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the east sea&#39;,1248,0,1280,1216,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the north sea&#39;,1024,0,1472,32,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,224,480,320,512,&#39;the Abblegard Castle&#39;)" activation="3000"/>
+        <addWME wme="friendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(Animal)" activation="3000"/>
+        <addWME wme="unfriendly(Undead)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,32,320,64,352,&#39;the inn&#39;)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',32,320,64,352,'the inn')</addBehavior>
+        <addBehavior priority="0">
+          <BGoto location="home" radius="0"/>
+location('home',32,320,64,352,'the inn')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <conversationGraph>
+        <state name="none">
+          <transition actor="self" performative="hi" state="sent-hi" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Good day!" performative="hi"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="sent-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true"/>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="in-conversation-only-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="inform" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="ask" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="bye" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="trade" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="timeout" state="none" consume="true"/>
+        </state>
+        <state name="in-conversation">
+          <transition actor="self" performative="bye" state="sent-bye" consume="true"/>
+          <transition actor="self" performative="inform" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="true">
+            <talk text="I am sorry, I do not know anything about that." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-trade" consume="true">
+            <startTrading/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="yourself" consume="true">
+            <talk text="I live in Abblegard."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="abblegard" consume="true">
+            <talk text="It&#39;s a nice town, I&#39;ve never been anywhere else!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the king" consume="true">
+            <talk text="King Cabolo is our good King. We all respect him."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="blozard" consume="true">
+            <talk text="Blozard? he was a dragon, right?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner" consume="true">
+            <talk text="Granner? there used to be a kid named granner in Abblegard, he went crazy and now he&#39;s dead."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the cult" consume="true">
+            <talk text="The cult is group of crazy people, they are always causing us trouble."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner&#39;s tomb" consume="true">
+            <talk text="It was in the graveyard I think. But don&#39;t go around asking about that!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="rumors" consume="true">
+            <talk text="You&#39;d better talk to Ji, she knows all the rumors!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Monks" consume="true">
+            <talk text="Why do you tell me this? Go tell the guards!"/>
+          </transition>
+        </state>
+        <state name="in-trade">
+          <transition actor="other" performative="endtrade" state="in-conversation" consume="true"/>
+        </state>
+        <state name="sent-bye">
+          <transition actor="other" state="in-conversation" consume="false">
+            <talk text="I thought we were done talking..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+        </state>
+      </conversationGraph>
+    </object>
+    <object class="Peasant" completeRedefinition="true" x="96" y="320" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">102</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">102</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">100</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">100</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">102,103</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">102,103</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">100,101</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">100,101</animation>
+      <attribute name="ID" value="93"/>
+      <attribute name="name" value="Peasant"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <storyStateRule scope="game" variable="Granner" value="alive" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I&#39;ve heart that Granners&#39;s alive!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He was the black dragon, and he might be alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Granner" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="They say corpses have been washing ashore, it had never happened before!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He was the black dragon, and he is alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Blozard" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the pricess has an eye on one of you!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He&#39;s dead. We can now breathe for a while!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="King" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the pricess has an eye on one of you! With the kind dead, you might be king!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="the king" consume="true" from="in-conversation">
+          <talk text="He&#39;s dead... what is going to be of us now!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <attribute name="hp" value="5" levelupadd="0"/>
+      <attribute name="max_hp" value="5"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="3"/>
+      <attribute name="attack" value="4" levelupadd="0"/>
+      <attribute name="defense" value="2" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="841"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="841"/>
+      <onStart>
+        <addWME wme="object(90,96,384,128,416,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(90,Soldier)" activation="99"/>
+        <addWME wme="object(92,32,320,64,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(92,Peasant)" activation="99"/>
+        <addWME wme="object(95,257,224,289,256,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(95,Ji)" activation="99"/>
+        <addWME wme="bridge(&#39;the forest&#39;,0,448,32,480,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the forest&#39;,736,256,768,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the Abblegard Castle&#39;,384,256,448,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;a shop&#39;,224,320,256,352,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;an armory&#39;,576,96,608,128,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the inn&#39;,576,384,608,416,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,160,448,256,480,&#39;the inn&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,608,608,640,640,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,768,512,800,544,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Black Rock entrance&#39;,128,96,160,128,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the east sea&#39;,1248,0,1280,1216,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the north sea&#39;,1024,0,1472,32,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,224,480,320,512,&#39;the Abblegard Castle&#39;)" activation="3000"/>
+        <addWME wme="friendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(Animal)" activation="3000"/>
+        <addWME wme="unfriendly(Undead)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,96,320,128,352,&#39;the inn&#39;)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',96,320,128,352,'the inn')</addBehavior>
+        <addBehavior priority="0">
+          <BGoto location="home" radius="0"/>
+location('home',96,320,128,352,'the inn')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <conversationGraph>
+        <state name="none">
+          <transition actor="self" performative="hi" state="sent-hi" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Good day!" performative="hi"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="sent-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true"/>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="in-conversation-only-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="inform" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="ask" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="bye" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="trade" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="timeout" state="none" consume="true"/>
+        </state>
+        <state name="in-conversation">
+          <transition actor="self" performative="bye" state="sent-bye" consume="true"/>
+          <transition actor="self" performative="inform" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="true">
+            <talk text="I am sorry, I do not know anything about that." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-trade" consume="true">
+            <startTrading/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="yourself" consume="true">
+            <talk text="I live in Abblegard."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="abblegard" consume="true">
+            <talk text="It&#39;s a nice town, I&#39;ve never been anywhere else!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the king" consume="true">
+            <talk text="King Cabolo is our good King. We all respect him."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="blozard" consume="true">
+            <talk text="Blozard? he was a dragon, right?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner" consume="true">
+            <talk text="Granner? there used to be a kid named granner in Abblegard, he went crazy and now he&#39;s dead."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the cult" consume="true">
+            <talk text="The cult is group of crazy people, they are always causing us trouble."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner&#39;s tomb" consume="true">
+            <talk text="It was in the graveyard I think. But don&#39;t go around asking about that!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="rumors" consume="true">
+            <talk text="You&#39;d better talk to Ji, she knows all the rumors!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Monks" consume="true">
+            <talk text="Why do you tell me this? Go tell the guards!"/>
+          </transition>
+        </state>
+        <state name="in-trade">
+          <transition actor="other" performative="endtrade" state="in-conversation" consume="true"/>
+        </state>
+        <state name="sent-bye">
+          <transition actor="other" state="in-conversation" consume="false">
+            <talk text="I thought we were done talking..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+        </state>
+      </conversationGraph>
+    </object>
+    <object class="Peasant" completeRedefinition="true" x="288" y="384" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">102</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">102</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">100</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">100</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">102,103</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">102,103</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">100,101</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">100,101</animation>
+      <attribute name="ID" value="94"/>
+      <attribute name="name" value="Peasant"/>
+      <attribute name="gold" value="10"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <storyStateRule scope="game" variable="Granner" value="alive" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I&#39;ve heart that Granners&#39;s alive!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He was the black dragon, and he might be alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Granner" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="They say corpses have been washing ashore, it had never happened before!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He was the black dragon, and he is alive!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Blozard" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the pricess has an eye on one of you!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="blozard" consume="true" from="in-conversation">
+          <talk text="He&#39;s dead. We can now breathe for a while!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="King" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="I heard the pricess has an eye on one of you! With the kind dead, you might be king!"/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="the king" consume="true" from="in-conversation">
+          <talk text="He&#39;s dead... what is going to be of us now!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <attribute name="hp" value="5" levelupadd="0"/>
+      <attribute name="max_hp" value="5"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="3"/>
+      <attribute name="attack" value="4" levelupadd="0"/>
+      <attribute name="defense" value="2" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="16"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="0"/>
+      <attribute name="state_cycle" value="841"/>
+      <attribute name="sightRadius" value="5"/>
+      <attribute name="respawn" value="0"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="841"/>
+      <onStart>
+        <addWME wme="object(87,352,320,384,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(87,Soldier)" activation="99"/>
+        <addWME wme="object(88,288,320,320,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(88,Soldier)" activation="99"/>
+        <addWME wme="object(95,257,224,289,256,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(95,Ji)" activation="99"/>
+        <addWME wme="bridge(&#39;the forest&#39;,0,448,32,480,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the forest&#39;,736,256,768,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the Abblegard Castle&#39;,384,256,448,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;a shop&#39;,224,320,256,352,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;an armory&#39;,576,96,608,128,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the inn&#39;,576,384,608,416,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,160,448,256,480,&#39;the inn&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,608,608,640,640,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,768,512,800,544,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Black Rock entrance&#39;,128,96,160,128,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the east sea&#39;,1248,0,1280,1216,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the north sea&#39;,1024,0,1472,32,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,224,480,320,512,&#39;the Abblegard Castle&#39;)" activation="3000"/>
+        <addWME wme="friendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(Animal)" activation="3000"/>
+        <addWME wme="unfriendly(Undead)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,288,384,320,416,&#39;the inn&#39;)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',288,384,320,416,'the inn')</addBehavior>
+        <addBehavior priority="0">
+          <BGoto location="home" radius="0"/>
+location('home',288,384,320,416,'the inn')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <conversationGraph>
+        <state name="none">
+          <transition actor="self" performative="hi" state="sent-hi" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Good day!" performative="hi"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="sent-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true"/>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="That&#39;s no way to start a conversation!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="in-conversation-only-hi">
+          <transition actor="other" performative="hi" state="in-conversation-only-hi" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="inform" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="ask" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="bye" state="in-conversation" consume="false"/>
+          <transition actor="self" performative="trade" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="timeout" state="none" consume="true"/>
+        </state>
+        <state name="in-conversation">
+          <transition actor="self" performative="bye" state="sent-bye" consume="true"/>
+          <transition actor="self" performative="inform" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="Yes, good day to you too, we already went through that..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="true">
+            <talk text="I am sorry, I do not know anything about that." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-trade" consume="true">
+            <startTrading/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="So unpolite... we were talking!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="yourself" consume="true">
+            <talk text="I live in Abblegard."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="abblegard" consume="true">
+            <talk text="It&#39;s a nice town, I&#39;ve never been anywhere else!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the king" consume="true">
+            <talk text="King Cabolo is our good King. We all respect him."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="blozard" consume="true">
+            <talk text="Blozard? he was a dragon, right?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner" consume="true">
+            <talk text="Granner? there used to be a kid named granner in Abblegard, he went crazy and now he&#39;s dead."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the cult" consume="true">
+            <talk text="The cult is group of crazy people, they are always causing us trouble."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner&#39;s tomb" consume="true">
+            <talk text="It was in the graveyard I think. But don&#39;t go around asking about that!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="rumors" consume="true">
+            <talk text="You&#39;d better talk to Ji, she knows all the rumors!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Monks" consume="true">
+            <talk text="Why do you tell me this? Go tell the guards!"/>
+          </transition>
+        </state>
+        <state name="in-trade">
+          <transition actor="other" performative="endtrade" state="in-conversation" consume="true"/>
+        </state>
+        <state name="sent-bye">
+          <transition actor="other" state="in-conversation" consume="false">
+            <talk text="I thought we were done talking..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+        </state>
+      </conversationGraph>
+    </object>
+    <object class="Ji" completeRedefinition="true" x="256" y="224" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">98</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">98</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">96</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">96</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">98,99</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">98,99</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">96,97</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">96,97</animation>
+      <attribute name="ID" value="95"/>
+      <attribute name="name" value="Ji"/>
+      <attribute name="gold" value="5000"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addAgenda agenda="yelling" duration="2000" loop="true" cycle="840">
+          <entry time="0">
+            <talk text="So much work to do!" angry="true" wait="true"/>
+          </entry>
+          <entry time="500">
+            <talk text="This is not a charity house, any more drinks?" angry="true" wait="true"/>
+          </entry>
+          <entry time="1000">
+            <talk text="Please don&#39;t spit in the floor!" angry="true" wait="true"/>
+          </entry>
+          <entry time="1500">
+            <talk text="Keep my tables clean!" angry="true" wait="true"/>
+          </entry>
+        </addAgenda>
+      </onStart>
+      <eventRule event="receive" item="Stone Tablet" once="true">
+        <talk text="Even a child can read this. Take this, and don&#39;t bother me again."/>
+        <loseItem inventory="Stone Tablet"/>
+        <give>
+          <object class="TranslatedStoneTablet">
+			</object>
+        </give>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="stone tablet" consume="true" from="in-conversation">
+          <talk text="I already translated this for you!"/>
+        </updateConversationGraphTransition>
+      </eventRule>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <storyStateRule scope="game" variable="Granner" value="alive" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="Granner is a live. That&#39;s everything everyone talks about!"/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Granner" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="Something about corpses on the sea, ask around."/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="Blozard" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="The king is looking to marry the princess."/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <storyStateRule scope="game" variable="King" value="dead" once="true">
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="the king" consume="true" from="in-conversation">
+          <talk text="He&#39;s dead, Who cares..."/>
+        </updateConversationGraphTransition>
+        <updateConversationGraphTransition actor="other" performative="ask" keyword="rumors" consume="true" from="in-conversation">
+          <talk text="The princess is looking for a husband."/>
+        </updateConversationGraphTransition>
+      </storyStateRule>
+      <attribute name="hp" value="75" levelupadd="0"/>
+      <attribute name="max_hp" value="75"/>
+      <attribute name="mp" value="0" levelupadd="0"/>
+      <attribute name="max_mp" value="0"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="100"/>
+      <attribute name="attack" value="40" levelupadd="0"/>
+      <attribute name="defense" value="15" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="0"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="1"/>
+      <attribute name="state_cycle" value="72"/>
+      <items>
+        <object class="HPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+          <attribute name="ID" value="96"/>
+          <attribute name="name" value="HP Potion+5"/>
+          <attribute name="gold" value="15"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="hp" value="5"/>
+        </object>
+        <object class="MPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">5</animation>
+          <attribute name="ID" value="97"/>
+          <attribute name="name" value="MP Potion+5"/>
+          <attribute name="gold" value="15"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="mp" value="5"/>
+        </object>
+        <object class="XPPotion" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">13</animation>
+          <attribute name="ID" value="98"/>
+          <attribute name="name" value="XP Potion+5"/>
+          <attribute name="gold" value="30"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="xp" value="5"/>
+        </object>
+        <object class="Food" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">18</animation>
+          <attribute name="ID" value="99"/>
+          <attribute name="name" value="Chicken Leg"/>
+          <attribute name="gold" value="5"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="equipable" value="false"/>
+          <attribute name="useUponTake" value="false"/>
+          <attribute name="attackBonus" value="0"/>
+          <attribute name="defenseBonus" value="0"/>
+          <attribute name="magicMultiplier" value="1"/>
+        </object>
+        <object class="Food" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">19</animation>
+          <attribute name="ID" value="100"/>
+          <attribute name="name" value="Beef Stew"/>
+          <attribute name="gold" value="5"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="equipable" value="false"/>
+          <attribute name="useUponTake" value="false"/>
+          <attribute name="attackBonus" value="0"/>
+          <attribute name="defenseBonus" value="0"/>
+          <attribute name="magicMultiplier" value="1"/>
+        </object>
+        <object class="Food" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">85</animation>
+          <attribute name="ID" value="101"/>
+          <attribute name="name" value="Wine"/>
+          <attribute name="gold" value="5"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="equipable" value="false"/>
+          <attribute name="useUponTake" value="false"/>
+          <attribute name="attackBonus" value="0"/>
+          <attribute name="defenseBonus" value="0"/>
+          <attribute name="magicMultiplier" value="1"/>
+        </object>
+        <object class="Scroll" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">144</animation>
+          <attribute name="ID" value="102"/>
+          <attribute name="name" value="Shield Scroll"/>
+          <attribute name="gold" value="100"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="spell" value="2"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="7"/>
+      <attribute name="respawn" value="0"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="841"/>
+      <onStart>
+        <addWME wme="object(87,352,320,384,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(87,Soldier)" activation="99"/>
+        <addWME wme="object(88,288,320,320,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(88,Soldier)" activation="99"/>
+        <addWME wme="object(94,288,384,320,416,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(94,Peasant)" activation="99"/>
+        <addWME wme="object(96,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(96,HPPotion)" activation="1"/>
+        <addWME wme="object(97,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(97,MPPotion)" activation="1"/>
+        <addWME wme="object(98,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(98,XPPotion)" activation="1"/>
+        <addWME wme="object(99,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(99,Food)" activation="1"/>
+        <addWME wme="object(100,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(100,Food)" activation="1"/>
+        <addWME wme="object(101,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(101,Food)" activation="1"/>
+        <addWME wme="object(102,?,?,?,?,?)" activation="1"/>
+        <addWME wme="is_a(102,Scroll)" activation="1"/>
+        <addWME wme="object(90,96,384,128,416,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(90,Soldier)" activation="99"/>
+        <addWME wme="object(93,96,320,128,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(93,Peasant)" activation="99"/>
+        <addWME wme="object(92,32,320,64,352,&#39;the inn&#39;)" activation="99"/>
+        <addWME wme="is_a(92,Peasant)" activation="99"/>
+        <addWME wme="bridge(&#39;the forest&#39;,0,448,32,480,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the forest&#39;,736,256,768,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the Abblegard Castle&#39;,384,256,448,288,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;a shop&#39;,224,320,256,352,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;an armory&#39;,576,96,608,128,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the inn&#39;,576,384,608,416,&#39;Abblegard&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,160,448,256,480,&#39;the inn&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,608,608,640,640,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,768,512,800,544,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Black Rock entrance&#39;,128,96,160,128,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the east sea&#39;,1248,0,1280,1216,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;the north sea&#39;,1024,0,1472,32,&#39;the forest&#39;)" activation="3000"/>
+        <addWME wme="bridge(&#39;Abblegard&#39;,224,480,320,512,&#39;the Abblegard Castle&#39;)" activation="3000"/>
+        <addWME wme="friendly(AbblegardCitizen)" activation="3000"/>
+        <addWME wme="unfriendly(CultMember)" activation="3000"/>
+        <addWME wme="unfriendly(Animal)" activation="3000"/>
+        <addWME wme="unfriendly(Undead)" activation="3000"/>
+        <addWME wme="location(&#39;home&#39;,192,224,224,256,&#39;the inn&#39;)" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+location('home',192,224,224,256,'the inn')</addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="4" pStop="0.25" stopTime="200"/>
+location('home',192,224,224,256,'the inn')</addBehavior>
+      </onStart>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <conversationGraph>
+        <state name="none">
+          <transition actor="self" performative="hi" state="sent-hi" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="what do you want?" performative="hi"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Yes, I&#39;m too busy, just leave!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false">
+            <talk text="what was that?" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false">
+            <talk text="you talking to me?" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="Ok, be quick!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="sent-hi">
+          <transition actor="other" performative="hi" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false">
+            <talk text="be quick!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="costumers are more disrespectful every day!" performative="inform" angry="true" wait="true"/>
+          </transition>
+        </state>
+        <state name="in-conversation">
+          <transition actor="self" performative="bye" state="sent-bye" consume="true"/>
+          <transition actor="self" performative="inform" consume="true"/>
+          <transition actor="other" performative="hi" state="none" consume="true">
+            <talk text="you are wasting my time... good bye" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="later" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="true">
+            <talk text="I know nothing of that." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="trade" state="in-trade" consume="true">
+            <startTrading/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="costumers are more disrespectful every day!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="yourself" consume="true">
+            <talk text="I&#39;m Ji, owner of this place. Now let me work!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="abblegard" consume="true">
+            <talk text="Go ask someonelese, I&#39;m busy!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the king" consume="true">
+            <talk text="We don&#39;t like him."/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="blozard" consume="true">
+            <talk text="A black dragon, ask someone else about him!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner" consume="true">
+            <talk text="Everyone knows, ask someone else!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="the cult" consume="true">
+            <talk text="What about it?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="rumors" consume="true">
+            <talk text="There&#39;s rumors of a hidden treasure, but I&#39;m too busy to go look for it!"/>
+            <addTopic topic="hidden treasure" text="Do you know where is the hidden treasure?"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="hidden treasure" consume="true">
+            <talk text="From what I&#39;ve been gathering, it&#39;s buried in the forest. If you undig it, I want my part for telling you!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Granner&#39;s tomb" consume="true">
+            <talk text="It&#39;s in the graveyard. Now leave me alone!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Cyril" consume="true">
+            <talk text="Cyril? That&#39;s just a legend to scare kids at night!"/>
+          </transition>
+          <transition actor="other" performative="ask" keyword="stone tablet" consume="true">
+            <if>
+              <condition>
+                <steal name="Stone Tablet"/>
+              </condition>
+              <then>
+                <talk text="Even a child can read this. Take this, and don&#39;t bother me again."/>
+                <loseItem inventory="Stone Tablet"/>
+                <give>
+                  <object class="TranslatedStoneTablet">
+					</object>
+                </give>
+                <updateConversationGraphTransition actor="other" performative="ask" keyword="stone tablet" consume="true" from="in-conversation">
+                  <talk text="I already translated that for you!"/>
+                </updateConversationGraphTransition>
+              </then>
+              <else>
+                <talk text="Bring it to me first!"/>
+              </else>
+            </if>
+          </transition>
+          <transition actor="other" performative="ask" keyword="Monks" consume="true">
+            <talk text="Look, I have enough with my inn. Look for someone else to help you!"/>
+          </transition>
+        </state>
+        <state name="in-trade">
+          <transition actor="other" performative="endtrade" state="in-conversation" consume="true"/>
+        </state>
+        <state name="sent-bye">
+          <transition actor="other" state="in-conversation" consume="false">
+            <talk text="I though we were done!" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+        </state>
+      </conversationGraph>
+    </object>
+  </objectgroup>
+</map>

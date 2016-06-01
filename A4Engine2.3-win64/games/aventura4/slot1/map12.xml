@@ -1,0 +1,515 @@
+<map version="1.0" orientation="orthogonal" width="12" height="12" tilewidth="32" tileheight="32">
+  <properties>
+    <property name="name" value="Granner room"/>
+  </properties>
+  <tileset firstgid="1" name="graphics" tilewidth="32" tileheight="32">
+    <image source="graphics.png" width="320" height="1184"/>
+  </tileset>
+  <layer name="Tile Layer 1" width="12" height="12">
+    <data>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+    </data>
+  </layer>
+  <layer name="Tile Layer 2" width="12" height="12">
+    <data>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="59"/>
+      <tile gid="59"/>
+      <tile gid="69"/>
+      <tile gid="69"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="126"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="58"/>
+      <tile gid="58"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="126"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="87"/>
+      <tile gid="0"/>
+      <tile gid="58"/>
+      <tile gid="58"/>
+      <tile gid="0"/>
+      <tile gid="87"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="58"/>
+      <tile gid="58"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="68"/>
+      <tile gid="68"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="136"/>
+      <tile gid="136"/>
+      <tile gid="136"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="0"/>
+      <tile gid="136"/>
+      <tile gid="146"/>
+      <tile gid="146"/>
+      <tile gid="136"/>
+      <tile gid="0"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+      <tile gid="12"/>
+    </data>
+  </layer>
+  <objectgroup name="objects" width="12" height="12">
+    <object name="granner" class="Bridge" x="160" y="320" width="64" height="32">
+      <attribute name="ID" value="458"/>
+      <attribute name="name" value="granner"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object name="granner" class="BridgeDestination" x="160" y="288" width="64" height="32">
+      <attribute name="ID" value="459"/>
+      <attribute name="name" value="granner"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="128" y="256" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">49</animation>
+      <attribute name="ID" value="460"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="GRANNERROOM"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Door" completeRedefinition="true" x="224" y="256" width="32" height="32">
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">49</animation>
+      <attribute name="ID" value="461"/>
+      <attribute name="name" value="door"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="doorID" value="GRANNERROOM"/>
+      <attribute name="closed" value="true"/>
+    </object>
+    <object class="Lever" completeRedefinition="true" x="96" y="64" width="32" height="32">
+      <animation name="open" dx="1" dy="1" period="1" looping="false" file="graphics.png">65</animation>
+      <animation name="closed" dx="1" dy="1" period="1" looping="false" file="graphics.png">55</animation>
+      <attribute name="ID" value="462"/>
+      <attribute name="name" value="lever"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="true"/>
+      <attribute name="burrowed" value="false"/>
+      <attribute name="leverID" value="GRANNERROOM"/>
+      <attribute name="leverState" value="true"/>
+    </object>
+    <object class="Granner" completeRedefinition="true" x="160" y="64" width="32" height="32">
+      <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">162</animation>
+      <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">162</animation>
+      <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">160</animation>
+      <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">160</animation>
+      <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">162,163</animation>
+      <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">162,163</animation>
+      <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">160,161</animation>
+      <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">160,161</animation>
+      <attribute name="ID" value="463"/>
+      <attribute name="name" value="Granner"/>
+      <attribute name="gold" value="25"/>
+      <attribute name="canWalk" value="true"/>
+      <attribute name="canSwim" value="false"/>
+      <attribute name="takeable" value="false"/>
+      <attribute name="usable" value="false"/>
+      <attribute name="burrowed" value="false"/>
+      <onStart>
+        <addWME wme="friendly(CultMember)" activation="3000"/>
+        <pendingTalk character="PlayerCharacter" text="So, you have finally come!"/>
+        <pendingTalk character="PlayerCharacter" text="Do you recognize me?"/>
+        <pendingTalk character="PlayerCharacter" text="Hahaha! Yes! I am Granner! I&#39;m alive!">
+          <storyState scope="game" variable="Granner" value="alive"/>
+          <addTopic topic="Granner" text="what can you tell me about Granner?"/>
+        </pendingTalk>
+        <pendingTalk character="PlayerCharacter" text="As you see, you are late!"/>
+        <pendingTalk character="PlayerCharacter" text="We were faster than you and now... we are back to life!"/>
+        <pendingTalk character="PlayerCharacter" text="Yes, I said &#39;we&#39;, Blozard is alive too! hahaha">
+          <addTopic topic="blozard" text="What can you tell me about Blozard?"/>
+        </pendingTalk>
+        <pendingTalk character="PlayerCharacter" text="And he is much stronger than he ever was!"/>
+        <pendingTalk character="PlayerCharacter" text="But before any one finds out it&#39;ll be too late, you will never find his hideout!"/>
+        <pendingTalk character="PlayerCharacter" text="Do you want to know how this happened?"/>
+        <pendingTalk character="PlayerCharacter" text="Well, you want to know too much! But bring this name to your grave..."/>
+        <pendingTalk character="PlayerCharacter" text="Cyril!!!">
+          <goto x="96" y="64"/>
+          <activateLever x="96" y="64"/>
+          <addWME wme="unfriendly(AbblegardCitizen)" activation="3000"/>
+          <addWME wme="unfriendly(PlayerCharacter)" activation="3000"/>
+        </pendingTalk>
+        <addCurrentPositionWME name="home" activation="3000"/>
+        <addBehavior priority="50">
+          <BAttackUnfriendly/>
+        </addBehavior>
+        <addBehavior priority="0">
+          <BWander forwardFactor="1" pStop="0.5" stopTime="200"/>
+        </addBehavior>
+      </onStart>
+      <eventRule event="end">
+        <storyState scope="game" variable="Granner" value="dead"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="true">
+        <playSound sound="sfx/hit.wav"/>
+      </eventRule>
+      <eventRule event="action_attack" hit="false">
+        <playSound sound="sfx/miss.wav"/>
+      </eventRule>
+      <eventRule event="action_spell" spell="magic missile">
+        <playSound sound="sfx/spell-1.wav"/>
+      </eventRule>
+      <eventRule event="action_spell" spell="decrease">
+        <playSound sound="sfx/spell-2.wav"/>
+      </eventRule>
+      <attribute name="hp" value="100" levelupadd="0"/>
+      <attribute name="max_hp" value="100"/>
+      <attribute name="mp" value="25" levelupadd="0"/>
+      <attribute name="max_mp" value="25"/>
+      <attribute name="xp" value="0"/>
+      <attribute name="level" value="1"/>
+      <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+      <attribute name="gives_experience" value="50"/>
+      <attribute name="attack" value="10" levelupadd="0"/>
+      <attribute name="defense" value="10" levelupadd="0"/>
+      <attribute name="attack_modifier" value="1"/>
+      <attribute name="defense_modifier" value="1"/>
+      <attribute name="walk_speed" value="24"/>
+      <attribute name="magicImmune" value="false"/>
+      <attribute name="direction" value="0"/>
+      <attribute name="previous_direction" value="-1"/>
+      <attribute name="state" value="0"/>
+      <attribute name="previous_state" value="-1"/>
+      <attribute name="state_cycle" value="0"/>
+      <spell>magic missile</spell>
+      <spell>decrease</spell>
+      <items>
+        <object class="EquipableItem" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">8</animation>
+          <attribute name="ID" value="464"/>
+          <attribute name="name" value="Granner Wand"/>
+          <attribute name="gold" value="2000"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="false"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="equipableSlot" value="0"/>
+          <attribute name="attack" value="10"/>
+          <attribute name="defense" value="2"/>
+          <attribute name="magic" value="2"/>
+          <attribute name="canChop" value="false"/>
+        </object>
+        <object class="Scroll" completeRedefinition="true">
+          <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">144</animation>
+          <attribute name="ID" value="465"/>
+          <attribute name="name" value="Burning Scroll"/>
+          <attribute name="gold" value="100"/>
+          <attribute name="takeable" value="true"/>
+          <attribute name="usable" value="true"/>
+          <attribute name="burrowed" value="false"/>
+          <attribute name="spell" value="5"/>
+        </object>
+      </items>
+      <attribute name="sightRadius" value="8"/>
+      <attribute name="respawn" value="0"/>
+      <attribute name="AI.period" value="1"/>
+      <attribute name="AI.cycle" value="0"/>
+      <inferenceRule premise="attack(?1,?2),is_a(?2,?3),friendly(?3),is_a(?1,?4)" conclusion="unfriendly(?4)" frequency="0.25" activation="3000" cooldown="50"/>
+      <conversationGraph>
+        <state name="none">
+          <transition actor="self" performative="hi" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="Hello!" performative="hi"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" state="in-conversation" consume="false"/>
+        </state>
+        <state name="sent-hi">
+          <transition actor="other" performative="hi" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+          <transition actor="other" performative="inform" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="trade" state="in-conversation" consume="false"/>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="I&#39;ll be waiting for you!" performative="inform"/>
+          </transition>
+        </state>
+        <state name="in-conversation">
+          <transition actor="self" performative="bye" state="sent-bye" consume="true"/>
+          <transition actor="self" performative="inform" consume="true"/>
+          <transition actor="other" performative="hi" state="in-conversation" consume="true">
+            <talk text="Hello?" performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true">
+            <talk text="Farewell!" performative="bye"/>
+          </transition>
+          <transition actor="other" performative="inform" state="in-conversation" consume="true"/>
+          <transition actor="other" performative="ask" state="in-conversation" consume="true">
+            <talk text="I am sorry, I do not know anything about that." performative="inform"/>
+          </transition>
+          <transition actor="other" performative="trade" consume="true">
+            <talk text="You have nothing I want!" performative="inform"/>
+          </transition>
+          <transition actor="other" performative="timeout" state="none" consume="true">
+            <talk text="I&#39;ll be waiting for you!" performative="inform"/>
+          </transition>
+        </state>
+        <state name="sent-bye">
+          <transition actor="other" state="in-conversation" consume="false">
+            <talk text="I though I had dismissed you already..." performative="inform" angry="true" wait="true"/>
+          </transition>
+          <transition actor="other" performative="bye" state="none" consume="true"/>
+        </state>
+      </conversationGraph>
+    </object>
+  </objectgroup>
+</map>

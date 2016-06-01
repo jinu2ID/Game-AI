@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d41dc1b-fcd6-4f08-9a14-6ed24427eafa" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ai/abstraction/rulebased/KnowledgeBase.java" afterPath="$PROJECT_DIR$/src/ai/abstraction/rulebased/KnaawledgeBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MarioAI/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MarioAI/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ai/abstraction/Harvest.java" afterPath="$PROJECT_DIR$/src/ai/abstraction/Harvest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ai/abstraction/rulebased/Rule.java" afterPath="$PROJECT_DIR$/src/ai/abstraction/rulebased/Rule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ai/abstraction/rulebased/rulesAI.java" afterPath="$PROJECT_DIR$/src/ai/abstraction/rulebased/rulesAI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tests/GameVisualSimulationTest.java" afterPath="$PROJECT_DIR$/src/tests/GameVisualSimulationTest.java" />
     </list>
     <ignored path="microrts-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +50,7 @@
           <file leaf-file-name="rulesAI.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/ai/abstraction/rulebased/rulesAI.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="293">
+                <state relative-caret-position="-370">
                   <caret line="155" column="54" selection-start-line="155" selection-start-column="54" selection-end-line="155" selection-end-column="54" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -719,12 +713,12 @@
       <workItem from="1464280224803" duration="27962000" />
       <workItem from="1464311071393" duration="8174000" />
       <workItem from="1464711292106" duration="3488000" />
-      <workItem from="1464730058965" duration="155000" />
+      <workItem from="1464730058965" duration="855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82390000" />
+    <option name="totallyTimeSpent" value="83090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1201,7 +1195,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ai/abstraction/rulebased/rulesAI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="-370">
           <caret line="155" column="54" selection-start-line="155" selection-start-column="54" selection-end-line="155" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />

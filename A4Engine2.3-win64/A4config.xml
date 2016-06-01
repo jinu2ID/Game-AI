@@ -1,0 +1,23 @@
+<Aventura4ConfigurationFile>
+  <defaultGame path="games/aventura4" gamefile="aventura4.xml"/>
+  <volume sfx="128"/>
+  <controls>
+    <zoom key="29"/>
+    <switch_players key="17"/>
+    <messageconsole_up key="75"/>
+    <messageconsole_down key="78"/>
+    <stats_toggle key="22"/>
+    <inventory_toggle key="25"/>
+    <spells_toggle key="19"/>
+    <left key="80"/>
+    <right key="79"/>
+    <up key="82"/>
+    <down key="81"/>
+    <take key="44"/>
+    <drop_gold key="21"/>
+    <talk key="23"/>
+    <fast_forward key="43"/>
+    <force_attack key="225"/>
+    <force_interaction key="226"/>
+  </controls>
+</Aventura4ConfigurationFile>

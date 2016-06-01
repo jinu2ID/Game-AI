@@ -1,0 +1,387 @@
+<A4Game name="Aventura4" title="Aventura 4" saveGameName="Lvl1 Lvl1">
+  <allowSaveGames value="true"/>
+  <story>
+    <line>  Upon arriving to Abbledigit, and talking with the</line>
+    <line>local townspeople, you learned about the recent past</line>
+    <line>of the village.</line>
+    <line>  The village of Abbledigit was now a peaceful place.</line>
+    <line>In the past, Granner, the head of \"The Cult of the</line>
+    <line>dragon\" was finally defeated.</line>
+    <line>  The Cult of the Dragon was an organization that</line>
+    <line>worshipped a dragon called Blozard. Many years ago</line>
+    <line>Blozard was slain, and Granner took revenge upon</line>
+    <line>Abbledigit by building \"The Black Rock\", a black</line>
+    <line>tower where villagers were kidnapped and tortured...</line>
+    <line>  All that was in the past. But once day, a nervous</line>
+    <line>guard delivered you a message. Something was wrong</line>
+    <line>and the King was in need of your assistance.</line>
+    <line>  And this is how a new adventure begins...</line>
+  </story>
+  <ending id="1">
+    <line>  Contratulations, you completed Aventura 4!</line>
+    <line> </line>
+    <line>Blozard has been defeated once again. And peace will</line>
+    <line>return to Abbledigit. However, even if this should</line>
+    <line>be a moment of joy and relief. You cannot avoid</line>
+    <line>thinking about Cyril's last words...</line>
+    <line> </line>
+    <line>You hope they are empty words, but if he appeared</line>
+    <line>once what is going to stop him from appearing</line>
+    <line>again?</line>
+    <line>However, that is another story...</line>
+    <line> </line>
+    <line>Thanks for playing Aventura 4! Do not hesitate to</line>
+    <line>send any feedback or suggestion you might have.</line>
+  </ending>
+  <tiles sourcewidth="32" sourceheight="32" targetwidth="32" targetheight="32">
+    <types file="graphics.png">
+0,0,1,0,1,0,0,0,0,0,
+1,1,1,0,0,0,0,0,0,0,
+4,0,1,1,1,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,1,1,1,2,3,1,1,1,0,
+0,1,1,1,1,0,0,0,1,0,
+0,0,0,1,0,0,1,0,1,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,1,1,1,1,
+0,0,0,0,0,1,0,0,0,0,
+0,0,0,0,0,1,0,0,0,0,
+0,0,0,0,0,1,0,0,0,0,
+0,0,0,0,0,1,0,0,0,0,
+0,0,0,0,0,1,0,0,0,0,
+0,0,0,0,0,0,0,1,0,0,
+0,0,0,0,1,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,1,1,1,1,
+1,1,0,0,0,0,1,1,1,1,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,</types>
+    <seeThrough file="graphics.png">
+0,0,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,1,
+0,0,0,0,0,0,0,0,0,1,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,1,0,1,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,1,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,
+1,1,0,0,0,0,0,0,0,0,</seeThrough>
+    <canDig file="graphics.png">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+1,1,1,1,1,1,1,1,1,0,
+1,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,</canDig>
+    <animation name="coinpurse" dx="1" dy="1" period="4" looping="false" file="graphics.png">9</animation>
+    <animation name="happy" dx="1" dy="1" period="8" looping="true" file="graphics.png">75,-1</animation>
+    <animation name="angry" dx="1" dy="1" period="8" looping="true" file="graphics.png">94,-1</animation>
+    <animation name="scared" dx="1" dy="1" period="8" looping="true" file="graphics.png">84,-1</animation>
+    <animation name="curious" dx="1" dy="1" period="8" looping="true" file="graphics.png">74,-1</animation>
+    <animation name="tired" dx="1" dy="1" period="8" looping="true" file="graphics.png">104,-1</animation>
+    <animation name="magic missile" dx="1" dy="1" period="8" looping="false" file="graphics.png">114</animation>
+    <animation name="fireball" dx="1" dy="1" period="8" looping="false" file="graphics.png">124</animation>
+    <animation name="incinerate" dx="1" dy="1" period="8" looping="false" file="graphics.png">134</animation>
+  </tiles>
+  <characterDefinition file="baseclasses.xml"/>
+  <characterDefinition file="npcs.xml"/>
+  <characterDefinition file="enemies.xml"/>
+  <characterDefinition file="players.xml"/>
+  <objectDefinition file="objects.xml"/>
+  <map file="map1.xml"/>
+  <map file="map2.xml"/>
+  <map file="map3.xml"/>
+  <map file="map4.xml"/>
+  <map file="map5.xml"/>
+  <map file="map6.xml"/>
+  <map file="map7.xml"/>
+  <map file="map8.xml"/>
+  <map file="map9.xml"/>
+  <map file="map10.xml"/>
+  <map file="map11.xml"/>
+  <map file="map12.xml"/>
+  <map file="map13.xml"/>
+  <map file="map14.xml"/>
+  <map file="map15.xml"/>
+  <map file="map16.xml"/>
+  <map file="map17.xml"/>
+  <map file="map18.xml"/>
+  <map file="map19.xml"/>
+  <player class="Warrior" completeRedefinition="true" x="480" y="864" map="5">
+    <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">72</animation>
+    <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">72</animation>
+    <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">70</animation>
+    <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">70</animation>
+    <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">72,73</animation>
+    <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">72,73</animation>
+    <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">70,71</animation>
+    <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">70,71</animation>
+    <animation name="death" dx="1" dy="1" period="50" looping="false" file="graphics.png">-1</animation>
+    <attribute name="ID" value="684"/>
+    <attribute name="name" value="Warrior"/>
+    <attribute name="gold" value="100"/>
+    <attribute name="canWalk" value="true"/>
+    <attribute name="canSwim" value="false"/>
+    <attribute name="takeable" value="false"/>
+    <attribute name="usable" value="false"/>
+    <attribute name="burrowed" value="false"/>
+    <eventRule event="action_use" item="Lever">
+      <playSound sound="sfx/lever.wav"/>
+    </eventRule>
+    <eventRule event="action_interact" item="Lever">
+      <playSound sound="sfx/lever.wav"/>
+    </eventRule>
+    <eventRule event="action_interact" item="Door">
+      <playSound sound="sfx/door.wav"/>
+    </eventRule>
+    <eventRule event="action_attack" hit="true">
+      <playSound sound="sfx/hit.wav"/>
+    </eventRule>
+    <eventRule event="action_attack" hit="false">
+      <playSound sound="sfx/miss.wav"/>
+    </eventRule>
+    <eventRule event="action_give">
+      <playSound sound="sfx/sell-give.wav"/>
+    </eventRule>
+    <eventRule event="action_sell">
+      <playSound sound="sfx/sell-give.wav"/>
+    </eventRule>
+    <eventRule event="action_buy">
+      <playSound sound="sfx/sell-give.wav"/>
+    </eventRule>
+    <eventRule event="action_chop">
+      <playSound sound="sfx/hit.wav"/>
+    </eventRule>
+    <attribute name="hp" value="11" levelupadd="5"/>
+    <attribute name="max_hp" value="20"/>
+    <attribute name="mp" value="0" levelupadd="0"/>
+    <attribute name="max_mp" value="0"/>
+    <attribute name="xp" value="5"/>
+    <attribute name="level" value="1"/>
+    <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+    <attribute name="gives_experience" value="1"/>
+    <attribute name="attack" value="4" levelupadd="1"/>
+    <attribute name="defense" value="0" levelupadd="1"/>
+    <attribute name="attack_modifier" value="1"/>
+    <attribute name="defense_modifier" value="1"/>
+    <attribute name="walk_speed" value="16"/>
+    <attribute name="magicImmune" value="false"/>
+    <attribute name="direction" value="3"/>
+    <attribute name="previous_direction" value="3"/>
+    <attribute name="state" value="0"/>
+    <attribute name="previous_state" value="0"/>
+    <attribute name="state_cycle" value="32"/>
+    <items>
+      <object class="HPPotion" completeRedefinition="true">
+        <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+        <attribute name="ID" value="655"/>
+        <attribute name="name" value="HP Potion+10"/>
+        <attribute name="gold" value="25"/>
+        <attribute name="takeable" value="true"/>
+        <attribute name="usable" value="true"/>
+        <attribute name="burrowed" value="false"/>
+        <attribute name="hp" value="10"/>
+      </object>
+    </items>
+  </player>
+  <player class="Wizard" completeRedefinition="true" x="416" y="448" map="0">
+    <animation name="idle-left" dx="1" dy="1" period="4" looping="false" file="graphics.png">82</animation>
+    <animation name="idle-up" dx="1" dy="1" period="4" looping="false" file="graphics.png">82</animation>
+    <animation name="idle-right" dx="1" dy="1" period="4" looping="false" file="graphics.png">80</animation>
+    <animation name="idle-down" dx="1" dy="1" period="4" looping="false" file="graphics.png">80</animation>
+    <animation name="moving-left" dx="1" dy="1" period="4" looping="true" file="graphics.png">82,83</animation>
+    <animation name="moving-up" dx="1" dy="1" period="4" looping="true" file="graphics.png">82,83</animation>
+    <animation name="moving-right" dx="1" dy="1" period="4" looping="true" file="graphics.png">80,81</animation>
+    <animation name="moving-down" dx="1" dy="1" period="4" looping="true" file="graphics.png">80,81</animation>
+    <animation name="death" dx="1" dy="1" period="50" looping="false" file="graphics.png">-1</animation>
+    <attribute name="ID" value="686"/>
+    <attribute name="name" value="Wizard"/>
+    <attribute name="gold" value="100"/>
+    <attribute name="canWalk" value="true"/>
+    <attribute name="canSwim" value="false"/>
+    <attribute name="takeable" value="false"/>
+    <attribute name="usable" value="false"/>
+    <attribute name="burrowed" value="false"/>
+    <eventRule event="action_use" item="Lever">
+      <playSound sound="sfx/lever.wav"/>
+    </eventRule>
+    <eventRule event="action_interact" item="Lever">
+      <playSound sound="sfx/lever.wav"/>
+    </eventRule>
+    <eventRule event="action_interact" item="Door">
+      <playSound sound="sfx/door.wav"/>
+    </eventRule>
+    <eventRule event="action_attack" hit="true">
+      <playSound sound="sfx/hit.wav"/>
+    </eventRule>
+    <eventRule event="action_attack" hit="false">
+      <playSound sound="sfx/miss.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="magic missile">
+      <playSound sound="sfx/spell-1.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="heal">
+      <playSound sound="sfx/spell-2.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="shield">
+      <playSound sound="sfx/spell-2.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="increase">
+      <playSound sound="sfx/spell-2.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="decrease">
+      <playSound sound="sfx/spell-2.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="fireball">
+      <playSound sound="sfx/spell-1.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="magic eye">
+      <playSound sound="sfx/spell-2.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="regenerate">
+      <playSound sound="sfx/spell-2.wav"/>
+    </eventRule>
+    <eventRule event="action_spell" spell="incinerate">
+      <playSound sound="sfx/spell-1.wav"/>
+    </eventRule>
+    <eventRule event="action_give">
+      <playSound sound="sfx/sell-give.wav"/>
+    </eventRule>
+    <eventRule event="action_sell">
+      <playSound sound="sfx/sell-give.wav"/>
+    </eventRule>
+    <eventRule event="action_buy">
+      <playSound sound="sfx/sell-give.wav"/>
+    </eventRule>
+    <eventRule event="action_chop">
+      <playSound sound="sfx/hit.wav"/>
+    </eventRule>
+    <attribute name="hp" value="15" levelupadd="3"/>
+    <attribute name="max_hp" value="15"/>
+    <attribute name="mp" value="10" levelupadd="2"/>
+    <attribute name="max_mp" value="10"/>
+    <attribute name="xp" value="0"/>
+    <attribute name="level" value="1"/>
+    <attribute name="experienceToLevelUp" value="10" levelupmultiply="1.5"/>
+    <attribute name="gives_experience" value="1"/>
+    <attribute name="attack" value="4" levelupadd="1"/>
+    <attribute name="defense" value="0" levelupadd="1"/>
+    <attribute name="attack_modifier" value="0.75"/>
+    <attribute name="defense_modifier" value="0.75"/>
+    <attribute name="walk_speed" value="16"/>
+    <attribute name="magicImmune" value="false"/>
+    <attribute name="direction" value="0"/>
+    <attribute name="previous_direction" value="0"/>
+    <attribute name="state" value="0"/>
+    <attribute name="previous_state" value="0"/>
+    <attribute name="state_cycle" value="2109"/>
+    <spell>magic missile</spell>
+    <spell>heal</spell>
+    <items>
+      <object class="HPPotion" completeRedefinition="true">
+        <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">1</animation>
+        <attribute name="ID" value="657"/>
+        <attribute name="name" value="HP Potion+10"/>
+        <attribute name="gold" value="25"/>
+        <attribute name="takeable" value="true"/>
+        <attribute name="usable" value="true"/>
+        <attribute name="burrowed" value="false"/>
+        <attribute name="hp" value="10"/>
+      </object>
+      <object class="MPPotion" completeRedefinition="true">
+        <animation name="idle" dx="1" dy="1" period="1" looping="false" file="graphics.png">5</animation>
+        <attribute name="ID" value="658"/>
+        <attribute name="name" value="MP Potion+10"/>
+        <attribute name="gold" value="25"/>
+        <attribute name="takeable" value="true"/>
+        <attribute name="usable" value="true"/>
+        <attribute name="burrowed" value="false"/>
+        <attribute name="mp" value="10"/>
+      </object>
+    </items>
+  </player>
+  <onStart>
+    <addTopic topic="yourself" text="tell me about yourself"/>
+    <addTopic topic="abblegard" text="what can you tell me about Abblegard?"/>
+    <addTopic topic="the king" text="what can you tell me about the King?"/>
+    <addTopic topic="rumors" text="Have you heard any rumors lately?"/>
+  </onStart>
+  <storyStateRule scope="game" variable="Cyril" value="dead" once="true">
+    <gameComplete/>
+  </storyStateRule>
+</A4Game>
