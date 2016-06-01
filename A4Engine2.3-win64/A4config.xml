@@ -1,5 +1,5 @@
 <Aventura4ConfigurationFile>
-  <defaultGame path="games/aventura4" gamefile="aventura4.xml"/>
+  <defaultGame path="games/example-game" gamefile="example.xml"/>
   <volume sfx="128"/>
   <controls>
     <zoom key="29"/>
