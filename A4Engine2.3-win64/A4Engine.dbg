@@ -1,0 +1,61 @@
+Application started
+Initializing SDL
+SDL initialized
+Initializing video mode
+glew initialized
+Initializing Audio
+Audio initialized
+k_size = 512
+GLTManager created.
+loading fonts...
+creating OpenGL shaders...
+Compiling vertex shader
+WARNING: 0:1: '' :  #version directive missing
+
+
+Compiling fragment shader
+WARNING: 0:1: '' :  #version directive missing
+
+
+Linking program
+
+PVMatrixID: 0
+MMatrixID: 1
+inColorID: 4
+useTextureID: 2
+resetOpenGLState complete
+done.
+A4EngineApp created.
+graphic file not found... graphics.png
+GLTManager::getImage OK: 00000245A614A108 - 000002462C9A03A0
+GraphicFile created 370 tiles (10 x 37)
+loading A4Map.. games/example-game/newMap.xml
+Spawning player Warrior at 32,32 in map 0
+A4Game created
+First Cycle started for state 0...
+State change: 0 -> 1
+First Cycle started for state 1...
+Resetting BInterface...
+Done.
+Resetting BInterface...
+Done.
+graphic file not found... graphics.png
+GraphicFile created 370 tiles (10 x 37)
+loading A4Map.. games/example-game/newMap.xml
+Spawning player Warrior at 32,32 in map 0
+A4Game created
+State change: 1 -> 3
+First Cycle started for state 3...
+Resetting BInterface...
+Done.
+execute_addTopic: 'yourself' 'tell me about yourself'
+execute_addTopic: 'rumors' 'Have you heard any rumors lately?'
+Resetting BInterface...
+Done.
+GLTManager: Clearing tile cache...
+GLTManager: Clearing tile cache... OK
+GLTManager: Clearing tile cache...
+GLTManager: Clearing tile cache... OK
+Finalizing SDL
+SDL finalized
+Application finished
