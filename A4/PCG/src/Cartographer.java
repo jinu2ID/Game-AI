@@ -104,15 +104,34 @@ public class Cartographer {
         return map;
     }
 
+    static String[] randomizeRoom(){
+        Random rn = new Random();
+        int roomType = rn.nextInt(5);
+
+        if (roomType == 0){
+            return new String[]{ "1", "12"};    // light gray tiles
+        } else if (roomType == 1) {
+            return new String[] {"31", "21"};   // grass and water tiles
+        } else if (roomType == 2) {
+            return  new String[] {"41", "11"};  // brown tiles
+        } else if (roomType == 3) {
+            return new String[] {"31", "45"};   // grass and trees
+        } else if (roomType == 4) {
+            return  new String[] {"57", "67"};  // dark gray tiles
+        } else {
+            return  new String[] {"1", "1"};    // gray floor tiles just in case
+        }
+
+
+    }
+
     // Create a XML file that represents a map
     static void writeMap(int[] map, int n) throws IOException {
-        LineNumberReader br = null;
-        PrintWriter bw = null;
+        PrintWriter bw;
         File file = new File("../A4Engine2.3-win64/games/example-game/newMap.xml");
 
         try{
             bw = new PrintWriter(new FileWriter(file, false));
-            String line = br.readLine();
 
             // Opener
             bw.println("<map version=\"A4\" orientation=\"orthogonal\" width=\""+n+"\" height=\""+n+"\" tilewidth=\"32\" tileheight=\"32\">");
@@ -125,10 +144,14 @@ public class Cartographer {
             bw.println("  <layer name=\"Tile Layer 1\" width=\""+n+"\" height=\""+n+"\">");
             bw.println("    <data>");
 
+            String[] tiles = randomizeRoom();
+            String tileType1 = tiles[0];
+            String tileType2 = tiles[1];
+
             for (int i = 0; i < map.length; i++){
-                String value = "57";
+                String value = tileType1;
                 if (map[i] == 1){
-                    value = "12";       // wall
+                    value = tileType2;       // wall
                 }
                 bw.println("      <tile gid=\""+value+"\"/>");
             }

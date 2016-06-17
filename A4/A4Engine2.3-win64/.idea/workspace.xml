@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e963b610-3525-4879-8cab-fc997cb41fb6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/games/example-game/map.xml" />
-    </list>
+    <list default="true" id="e963b610-3525-4879-8cab-fc997cb41fb6" name="Default" comment="" />
     <ignored path="A4Engine2.3-win64.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -638,7 +636,7 @@
     <option name="totallyTimeSpent" value="14481000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-154" width="1936" height="1066" extended-state="7" />
+    <frame x="-1928" y="-154" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
