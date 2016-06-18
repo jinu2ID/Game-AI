@@ -1,0 +1,25 @@
+For this project I created an agent that uses a behavior tree to implement decision
+making in a Mario game. I started by creating an abstract task class with a run method that
+returns a Boolean. It was extended through composite, sequence, selector, action, and
+condition classes.
+The behavior tree was designed to run in a non-threaded manner. This meant that at
+every cycle of the game only one leaf node could be executed and the tree would have to
+keep track of its current position. It quickly became apparent that simple true/false return
+values would not suffice. An enumeration consisting of success, failure, and running were
+added to the status of a task to track the current tree position between cycles.
+Conditions implemented included checking for enemies nearby, far, and behind, as
+well as checking for walls and ledges. Actions in the behavior tree consisted of jumping,
+shooting, moving right, turning left, and a short pause. Combining these tasks with selectors
+and sequences allowed for more complex behaviors such as shooting nearby enemies, jumping
+over walls, moving right and then pausing to avoid running into enemies, and jumping off
+ledges to avoid falling on enemies.
+The best method of killing enemies was to constantly shoot fireballs and jump when
+enemies were in close proximity. This technique combined with pausing to avoid moving too
+fast and running into enemies proved effective. The task of collecting coins was harder since
+once they were located a path to them would need to be found. It would have been handled
+better by a pathfinding algorithm such as A*. This behavior tree was only tested on the first
+difficulty setting. Higher difficulties would require a more robust behavior tree.
+
+The files for the behavior tree agent can be found in src/ch/idsia/agents/controllers/BehaviorTree/
+
+Refer to http://www.marioai.org/gameplay-track/getting-started for instructions on how to run
